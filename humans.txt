@@ -1,0 +1,11 @@
+/* humanstxt.org */
+
+TEAM
+====
+- Frederik De Bleser (www.enigmeta.com): Graphic Design, Coding
+
+SITE
+====
+- Standards: HTML5, CSS3
+- Software: JetBrains PyCharm, Compass, Sass
+  
