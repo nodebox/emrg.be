@@ -37,6 +37,15 @@ header a:hover {
   color: white;
 }
 
+header h1 {
+  margin: 0 0 2px 0;
+}
+header small {
+  display: block;
+  margin: 0 0 10px 0;
+  color: 
+}
+
 header h1 a {
     color: #3f414b;
 }
@@ -85,15 +94,49 @@ nav li a:hover {
     width: 100%;
 }
 
+.thumb {
+  display: block;
+  height: 120px;
+}
+
 
 /* Footer */
 
 footer { 
+  font-size: 85%;
   border-top: 1px solid #5a5d6a;
+}
+
+footer h2 {
 }
 
 footer a {
   color: #302f6a;
   text-decoration: none;
 }
+
+/* Homepage */
+
+.box h2 {
+  font-size: 14px;
+  margin: 0 0 10px 0;
+  padding: 5px;
   
+}
+
+.news.box {
+  background: #d9edd9;
+}
+
+.news.box h2 {
+  background: #c3e2c4;
+}
+
+.software.box {
+  background: #e5eff3;
+}
+
+.software.box h2 {
+  background: #cee0e8;
+}
+

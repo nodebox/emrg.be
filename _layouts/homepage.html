@@ -1,29 +1,29 @@
 ---
 layout: default
 ---
-<div class="four columns alpha">
+<div class="four columns alpha news box">
   <h2>News</h2>
   {% for post in site.posts %}
   <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <time>{{ post.date | date_to_string }}</time>
     {% endfor %}
   </article>
 </div>
 
-<div class="twelve columns omega">
+<div class="twelve columns omega software box">
   <h2>Software</h2>
   <div class="three columns">
-    <a href="/media/img/nodebox1.png" class="thumb"><img src="/media/img/nodebox1_s.png" alt="NodeBox 1 Screenshot"></a>
-    NodeBox 1
+    <a href="/software/nodebox-1.html"><img src="/media/img/nodebox1_s.png" alt="NodeBox 1 Screenshot" class="thumb">
+    NodeBox 1</a>
   </div>
   <div class="three columns">
-    <a href="/media/img/nodebox2.png" class="thumb"><img src="/media/img/nodebox2_s.png" alt="NodeBox 2 Screenshot"></a>
-    NodeBox 2
+    <a href="/software/nodebox-2.html"><img src="/media/img/nodebox2_s.png" alt="NodeBox 2 Screenshot" class="thumb">
+    NodeBox 2</a>
   </div>
   <div class="three columns">
-    <a href="/media/img/creatures.jpg" class="thumb"><img src="/media/img/creatures_s.jpg" alt="NodeBox/OpenGL running Creatures"></a>
-    NodeBox / OpenGL
+    <a href="/software/nodebox-opengl.html"><img src="/media/img/creatures_s.jpg" alt="NodeBox/OpenGL running Creatures" class="thumb">
+    NodeBox / OpenGL</a>
   </div>
 </div>
 
