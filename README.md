@@ -2,12 +2,6 @@ Experimental Media Research Group
 =================================
 This is the website for the Experimental Media Research Group (emrg.be)
 
-Frameworks
-----------
-* [Jekyll][] - Transform dynamic content into a static site.
-* [Normalize][] - An alternative to CSS reset which keeps sane browser defaults and makes them consistent across browsers.
-* [Skeleton][] - A responsive CSS grid that scales nicely on mobile.
-
 Installing on Mac
 -----------------
 Install [Xcode][] first.
@@ -37,6 +31,27 @@ To run the built-in server:
 To deploy to the live server:
 
     rake deploy
+
+Writing Content
+---------------
+Each page has a header at the top, called the "front matter". It contains page metadata, such as the title and layout. The layout is a file (in the _layouts directory) that contains the "wrapper" around the content.
+
+Content is written in [Markdown][]. If you want to use HTML, you can: just remember that Markdown tags do not work inside of HTML tags.
+
+
+    ---
+    layout: default
+    section: default
+    title: About
+    ---
+    Content goes here using [Markdown](http://daringfireball.net/projects/markdown/).
+
+
+Frameworks
+----------
+* [Jekyll][] - Transform dynamic content into a static site.
+* [Normalize][] - An alternative to CSS reset which keeps sane browser defaults and makes them consistent across browsers.
+* [Skeleton][] - A responsive CSS grid that scales nicely on mobile.
 
 License
 -------
