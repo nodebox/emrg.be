@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: base
 section: home
 ---
-<small>{{ page.date| date_to_string }}</small>
-<div id="post">
-{{ content }}
+<!-- Page Title -->
+<div id="page-title" class="twelve columns  offset-by-four">
+  <h2>{{ page.title }}</h2>
+  <small>{{ page.date| date_to_string }}</small>
+  <div id="post">
+    {{ content }}
+  </div>
 </div>

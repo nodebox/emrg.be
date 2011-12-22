@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | EMRG</title>
+  <meta name="author" content="Experimental Media Research Group">
+  <meta name="generator" content="Jekyll">
+
+  <!--[if lt IE 9]>
+    <script src="/media/js/html5.js"></script>
+  <![endif]-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:r,b,i&subset=latin" rel="stylesheet" type="text/css">
+  <link type="text/css" rel="stylesheet" media="screen" href="/media/css/skeleton.css">
+  <link type="text/css" rel="stylesheet" media="screen" href="/media/css/syntax.css">
+  <link type="text/css" rel="stylesheet" media="screen" href="/media/css/screen.css">
+
+  <link href="/media/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+</head>
+<body id="{{ page.section }}">
+<div class="container">
+
+  <!-- Header -->
+  <header class="row">
+    <div class="sixteen columns">
+      <h1><a target="_top" href="/">EMRG</a></h1>
+      <small>Experimental Media Research Group</small>
+      <nav><ul>
+        <li><a class="home" href="/">Home</a></li>
+        <li><a class="activities" href="/activities/">Activities</a></li>
+        <li><a class="projects"href="/projects/">Projects</a></li>
+        <li><a class="software" href="/software/">Software</a></li>
+        <li><a class="people" href="/people/">People</a></li>
+        <li><a class="publications" href="/publications/">Publications</a></li>
+        <li><a class="gallery" href="/gallery/">Gallery</a></li>
+        <li><a class="contact" href="/contact/">Contact</a></li>
+      </ul></nav>
+    </div>
+  </header>
+  
+  <!-- Content -->
+  {{ content }}
+
+  <!-- Footer -->
+  <footer class="sixteen columns">
+    <div class="four columns alpha">
+      <h2>Activities</h2>
+      <ul>
+        <li><a href="/activities/teaching.html">Teaching</a></li>
+        <li><a href="/activities/workshops.html">Workshops</a></li>
+        <li><a href="/activities/lectures.html">Lectures</a></li>
+      </ul>
+    </div>
+    <div class="four columns">
+      <h2>Software</h2>
+      <ul>
+        <li><a href="/software/nodebox-1.html" title="The original, only for Mac OS X">NodeBox 1</a></li>
+        <li><a href="/software/nodebox-2.html" title="The current generation with a node-based visual interface">NodeBox 2</a></li>
+        <li><a href="/software/nodebox-opengl.html" title="The cross-platform, hardware-accelerated version">NodeBox for OpenGL</a></li>
+      </ul>
+    </div>
+    <div class="four columns">
+      <h2>Gallery</h2>
+      <!-- Random images from the gallery -->
+    </div>
+    <div class="four columns omega">
+      <h2>Contact Us</h2>
+      <p>Contact us at <a href="mailto:info@emrg.be">info@emrg.be</a>.</p>
+      <p><small>Copyright &copy; 2011 Experimental Media Research Group</small></p>
+    </div>
+
+  </footer> <!-- #footer -->
+
+</div> <!-- .container -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="/media/js/jquery.lightbox-0.5.min.js"></script>
+<script>
+  $(function() {
+    $('a.thumb').lightBox();
+  });
+</script>
+<script src="/media/js/html5.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11544926-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
