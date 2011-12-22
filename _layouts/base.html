@@ -12,7 +12,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:r,b,i&subset=latin" rel="stylesheet" type="text/css">
+  <!-- <link href="http://fonts.googleapis.com/css?family=Open+Sans:r,b,i&subset=latin" rel="stylesheet" type="text/css"> -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,800italic,400,800,600' rel='stylesheet' type='text/css'>
   <link type="text/css" rel="stylesheet" media="screen" href="/media/css/skeleton.css">
   <link type="text/css" rel="stylesheet" media="screen" href="/media/css/syntax.css">
   <link type="text/css" rel="stylesheet" media="screen" href="/media/css/screen.css">
@@ -21,32 +22,36 @@
 
 </head>
 <body id="{{ page.section }}">
-<div class="container">
 
-  <!-- Header -->
-  <header class="row">
-    <div class="sixteen columns">
-      <h1><a target="_top" href="/">EMRG</a></h1>
-      <small>Experimental Media Research Group</small>
-      <nav><ul>
-        <li><a class="home" href="/">Home</a></li>
-        <li><a class="activities" href="/activities/">Activities</a></li>
-        <li><a class="projects"href="/projects/">Projects</a></li>
-        <li><a class="software" href="/software/">Software</a></li>
-        <li><a class="people" href="/people/">People</a></li>
-        <li><a class="publications" href="/publications/">Publications</a></li>
-        <li><a class="gallery" href="/gallery/">Gallery</a></li>
-        <li><a class="contact" href="/contact/">Contact</a></li>
-      </ul></nav>
-    </div>
-  </header>
+
+<nav><ul>
+  <li><a class="home" href="/">Home</a></li>
+  <li><a class="activities" href="/activities/">Activities</a></li>
+  <li><a class="projects"href="/projects/">Projects</a></li>
+  <li><a class="software" href="/software/">Software</a></li>
+  <li><a class="people" href="/people/">People</a></li>
+  <li><a class="publications" href="/publications/">Publications</a></li>
+  <li><a class="gallery" href="/gallery/">Gallery</a></li>
+  <li><a class="contact" href="/contact/">Contact</a></li>
+</ul></nav>
+
+<header>
+  <h1><a target="_top" href="/">EMRG</a></h1>
+  <small>Experimental Media Research Group</small>
+</header>
+
+<div id="content" class="container">
   
   <!-- Content -->
   {{ content }}
 
-  <!-- Footer -->
-  <footer class="sixteen columns">
-    <div class="four columns alpha">
+</div> <!-- .container -->
+
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="four columns">
       <h2>Activities</h2>
       <ul>
         <li><a href="/activities/teaching.html">Teaching</a></li>
@@ -66,15 +71,13 @@
       <h2>Gallery</h2>
       <!-- Random images from the gallery -->
     </div>
-    <div class="four columns omega">
+    <div class="four columns">
       <h2>Contact Us</h2>
       <p>Contact us at <a href="mailto:info@emrg.be">info@emrg.be</a>.</p>
       <p><small>Copyright &copy; 2011 Experimental Media Research Group</small></p>
     </div>
-
-  </footer> <!-- #footer -->
-
-</div> <!-- .container -->
+  </div>
+</footer> <!-- #footer -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script src="/media/js/jquery.lightbox-0.5.min.js"></script>
