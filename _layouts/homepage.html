@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="four columns alpha news box">
+<div class="four columns news box">
   <h2>News</h2>
   {% for post in site.posts %}
   <article>
@@ -11,7 +11,7 @@ layout: base
   </article>
 </div>
 
-<div class="twelve columns omega software box">
+<div class="twelve columns software box">
   <h2>Software</h2>
   <div class="three columns">
     <a href="/software/nodebox-2.html"><img src="/media/img/nodebox2_s.png" alt="NodeBox 2 Screenshot" class="thumb">
@@ -28,6 +28,6 @@ layout: base
 </div>
 
 <div class="twelve columns offset-by-four omega">
-  <h2>{{ page.title }}</h2>
+  <h2 id="page-title">{{ page.title }}</h2>
   {{ content }}
 </div>
