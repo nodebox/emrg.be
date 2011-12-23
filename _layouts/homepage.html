@@ -1,16 +1,6 @@
 ---
 layout: base
 ---
-<div class="four columns news box">
-  <h2>News</h2>
-  {% for post in site.posts %}
-  <article>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <time>{{ post.date | date_to_string }}</time>
-    {% endfor %}
-  </article>
-</div>
-
 <div class="twelve columns software box">
   <h2>Software</h2>
   <div class="three columns">
@@ -27,7 +17,19 @@ layout: base
   </div>
 </div>
 
-<div class="twelve columns offset-by-four omega">
+<aside class="four columns news box">
+  <h2>News</h2>
+  {% for post in site.posts %}
+  <article>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <time>{{ post.date | date_to_string }}</time>
+    {% endfor %}
+  </article>
+</aside>
+
+
+<div class="twelve columns">
   <h2 id="page-title">{{ page.title }}</h2>
   {{ content }}
 </div>
+

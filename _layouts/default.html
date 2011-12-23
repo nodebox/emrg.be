@@ -1,14 +1,16 @@
 ---
 layout: base
-section: home
 ---
-  <!-- Page Title -->
-  <div class="twelve columns offset-by-four">
-    <h2 id="page-title">{{ page.title }}</h2>
-  </div>
-
   <!-- Content -->
-  <div class="ten columns offset-by-four">
+  <div class="twelve columns">
+    <h2 id="page-title">{{ page.title }}</h2>
     {{ content }}
   </div>
 
+  {% if page.images %}
+  <aside class="four columns">
+    {% for image in page.images %}
+      <img src="/media/img/{{ image }}" alt="{{ page.title }}">
+    {% endfor %}
+  </aside>
+  {% endif %}  
