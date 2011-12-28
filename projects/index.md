@@ -15,3 +15,4 @@ Active Projects
 Finished Projects
 =================
 * [Gravital](gravital.html): Gravital
+* [DarkMatr](darkmatr.html): DarkMatr
