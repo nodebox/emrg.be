@@ -9,6 +9,8 @@ NodeBox is a Mac OS X application that lets you create 2D visuals (static, anima
 
 NodeBox 1 is only available for Mac OS X, but ports exist for other platforms that use the same API such as [Shoebot][].
 
+*NodeBox 1 is no longer under active development.*
+
 [nodebox.net](http://nodebox.net/)
 
 [shoebot]: http://shoebot.net/
