@@ -36,7 +36,7 @@ Writing Content
 ---------------
 Each page has a header at the top, called the "front matter". It contains page metadata, such as the title and layout. The layout is a file (in the _layouts directory) that contains the "wrapper" around the content.
 
-Content is written in [Markdown][]. If you want to use HTML, you can: just remember that Markdown tags do not work inside of HTML tags.
+Content is written in [Markdown](http://daringfireball.net/projects/markdown/). If you want to use HTML, you can: just remember that Markdown tags do not work inside of HTML tags.
 
 
     ---
