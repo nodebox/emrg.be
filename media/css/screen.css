@@ -24,6 +24,15 @@ a {
   text-decoration: none;
 }
 
+address {
+  margin: 0 0 1em 0;
+}
+
+time {
+  opacity: 0.5;
+  font-size: 90%;
+}
+
 #page {
   margin: 0 auto;
 }
@@ -127,6 +136,7 @@ h2 {
 }
 
 #page-title {
+  margin-bottom: 0.2em;
 }
 
 /* Aside */
@@ -222,6 +232,10 @@ footer .copyright {
 
 .news.box article {
   padding: 0 10px;
+}
+
+.news.box time {
+  display: block;
 }
 
 .software.box {
