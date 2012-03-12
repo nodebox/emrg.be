@@ -7,13 +7,13 @@ The EMRG is a research group investigating the role of computers in design. We a
   
 We are developing a number of open-source tools used by graphics designers and the generative art community.
   
-NodeBox 2
+NodeBox 3
 ---------
-Even though it looks like a small version number change, NodeBox 2 is quite a different beast from NodeBox 1. Instead of writing code, users can connect visual blocks, which we call nodes, together into networks, creating visually rich compositions.
+NodeBox 3 is a cross-platform, free software application for creating generative graphics using an easy-to-use node-based UI. Instead of writing code, users can connect visual blocks, which we call nodes, together into networks, creating visually rich compositions.
 
-NodeBox 2 is free software (under the [GNU Public License][gpl]) and cross-platform, running on Mac, Windows and Linux.
+NodeBox 3 runs on Mac, Windows and Linux. It is under active development.
 
-[Read More][nodebox2] | [View Website](http://beta.nodebox.net/)
+[Read More][nodebox3] | [View Website](http://beta.nodebox.net/)
 
 NodeBox 1
 ---------
@@ -29,6 +29,5 @@ The Experimental Media Research Group is a part of Sint-Lucas Antwerpen, a depar
 
 <http://www.kdg.be>
 
-[gpl]: http://www.gnu.org/licenses/gpl.html
 [nodebox1]: /software/nodebox-1.html
-[nodebox2]: /software/nodebox-2.html
+[nodebox3]: /software/nodebox-3.html
