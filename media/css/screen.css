@@ -4,8 +4,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 
 body {
   color: #555D60;
-  background: #eee;
-  font: 14px/21px 'Open Sans', arial, sans-serif;
+  background: #fff;
+  font: 14px/21px arial, sans-serif;
   color: #542437;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -webkit-text-size-adjust: 100%;
@@ -20,64 +20,15 @@ a {
   margin: 0 auto;
 }
 
-
-/* Navigation */
-
-nav {
-  margin: 0 0 0 0;
-  padding: 0 0 0 10px;
-  background: #ECD078;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 2px rgba(0, 0, 0, 0.9);
-}
-
-nav ul {
-  margin: 0;
-  padding: 0;
-}
-
-nav li {
-  display: inline-block;
-  margin: 0 10px 0 0;
-  font-size: 18px;
-}
-
-nav li a {
-  display: block;
-  padding: 5px 5px;
-  border-top: 2px solid rgba(0, 0, 0, 0);
-  font-size: 60%;
-  font-weight: 800;
-  text-transform: uppercase;
-  color: #53777A;
-}
-
-nav li a:hover {
-  background: #5a5d6a;
-  color: white;
-  border-top: 2px solid #445;
-}
-
-#home .home,
-#activities .activities,
-#projects .projects,
-#software .software,
-#people .people,
-#publications .publications,
-#gallery .gallery,
-#contact .contact {
-  border-top: 2px solid #445;
-}
-
-
 /* Header */
 
 header {
-  margin-bottom: 25px;
-  padding: 15px 0 5px 10px;
-  background: #53777A;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.4);
+  height: 199px;
+  background: #28241f url(../img/header-background.png) no-repeat top left;
+}
+
+header div {
+  opacity: 0;
 }
 
 header, header a {
@@ -97,6 +48,59 @@ header small {
   text-transform: uppercase;
 }
 
+/* Navigation */
+
+nav {
+  height: 51px;
+  background: #211d18 url(../img/nav-background.png) no-repeat top left;
+  margin-bottom: 15px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+}
+
+nav li a {
+  height: 21px;
+  color: #fff;
+  float: left;
+  display: inline-block;
+  margin: 0;
+  font-size: 18px;
+  padding: 15px 10px;
+  border-right: 1px solid rgba(128, 128, 128, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  text-transform: lowercase;
+}
+
+nav li:first-child a {
+  border-left: 0;
+}
+
+nav li:last-child a {
+  border-right: 0;
+}
+
+nav li a:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+#home .home,
+#activities .activities,
+#projects .projects,
+#software .software,
+#people .people,
+#publications .publications,
+#gallery .gallery,
+#contact .contact {
+  background: rgba(0, 0, 0, 0.3);
+}
+
 
 /* Content */
 
@@ -112,21 +116,17 @@ header small {
   display: block;
 }
 
-#content h2 {
+h2 {
   margin: 0 0 1em 0;
 }
 
 #page-title {
-  border-top: 2px solid #542437;
-  padding-top: 10px;
 }
 
 /* Aside */
 
 aside {
-  border-top: 2px solid #542437;
   padding-bottom: 10px;
-  padding-top: 5px;  
 }
 
 
@@ -135,8 +135,8 @@ aside {
 footer {
   margin-top: 15px;
   padding: 10px 0 5px 10px;
-  background: #542437;
-  box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+  background: #262320;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
   font-size: 85%;
   border-top: 1px solid rgba(0, 0, 0, 0.4);
 }
@@ -158,15 +158,15 @@ footer ul {
 /* Homepage */
 
 .box {
-    border-top: 2px solid #542437;
     padding-bottom: 10px;
     margin-bottom: 25px;
 }
 
 .box h2 {
-  font-size: 14px;
+  font-size: 12px;
+  font-weight: normal;
+  padding: 0 10px;
   margin: 0 0 5px 0;
-  padding-top: 5px;
   text-transform: uppercase;
   color: #53777A;
 }
@@ -180,24 +180,49 @@ footer ul {
 }
 
 .news.box {
-/*  background: #53777A;*/
+  background: #d9edda;
 }
 
 .news.box, .news.box a {
-  color: #542437;
+  color: #637e4f;
 }
 
 .news.box h2 {
-/*  background: #542437;*/
+  background: #c3e2c4;
+  color: #566356;
+}
+
+.news.box h3 {
+  color: #3e7a00;
+}
+
+.news.box article {
+  padding: 0 10px;
 }
 
 .software.box {
-/*  background: #eee;*/
+ background: #e5eef3;
+}
+
+.software.box, .software.box a {
+  color: #505355;
 }
 
 .software.box h2 {
-/*  background: #ddd;*/
-/*  color: #542437;*/
-  text-transform: uppercase;
+  background: #cedfe8;
+  color: #646c71;
+}
+
+.software.box img {
+  background: #e5eef3;
+  padding: 2px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.software.box h3 {
+  color: #3572a4;
 }
 
