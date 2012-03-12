@@ -18,8 +18,14 @@ Installing on Ubuntu
     sudo gem install rake jekyll RedCloth
     sudo easy_install pygments
 
-Running
--------
+Running on Mac
+--------------
+
+* Double-click the "start_server" file.
+* Open your browser to http://localhost:4000/
+
+Running on Ubuntu
+-----------------
 To build the website:
 
     rake
