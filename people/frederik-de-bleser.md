@@ -15,7 +15,4 @@ Frederik's PhD researches the impact of procedural graphics applications such as
 * **More creative**: can they produce new things beyond the state of the art?
 * **Self-reliant**: are they able to help themselves if they get stuck?
 
-You can see the progress of his research at [www.enigmeta.com][].
-
-[www.enigmeta.com]: http://www.enigmeta.com/
-
+[www.enigmeta.com](http://www.enigmeta.com)
