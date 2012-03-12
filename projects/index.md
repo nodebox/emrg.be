@@ -7,8 +7,7 @@ title: Research Projects
 * [Impact of Generative Design Tools](impact-of-generative-design-tools.html): How do new procedural tools influence the designer?
 * [NodeBox / Data](nodebox-data.html): Data Driven Design
 
-
 Finished Projects
 -----------------
 * [Gravital](gravital.html): Parsing natural language to a visual language.
-* [DarkMatr](darkmatr.html)
+* [DarkMatr](darkmatr.html): Use the web as a database for collective human intelligence.
