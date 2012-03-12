@@ -25,9 +25,9 @@ Sint Lucas Antwerpen
 --------------------
 The Experimental Media Research Group is a part of Sint-Lucas Antwerpen, a department of the Karel de Grote Hogeschool.
 
-<http://www.sintlucasantwerpen.be/>
+[www.sintlucasantwerpen.be](http://www.sintlucasantwerpen.be/)
 
-<http://www.kdg.be>
+[www.kdg.be](http://www.kdg.be)
 
 [nodebox1]: /software/nodebox-1.html
 [nodebox3]: /software/nodebox-3.html
