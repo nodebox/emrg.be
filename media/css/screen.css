@@ -32,11 +32,7 @@ a {
 
 header {
   height: 199px;
-  background: #28241f url(../img/header-background.png) no-repeat top left;
-}
-
-header div {
-  opacity: 0;
+  background: #28241f url(../img/header-background.jpg) no-repeat top left;
 }
 
 header, header a {
@@ -46,7 +42,7 @@ header, header a {
 
 header h1 {
   font-weight: 800;
-  margin: 0;
+  margin: 50px 0 0 0;
 }
 
 header small {
