@@ -1,16 +1,22 @@
 ---
 layout: base
 ---
+  <!-- Page Title -->
+  <div class="row">
+    <div class="sixteen columns">
+      <h2 id="page-title">{{ page.title }}</h2>
+    </div>
+  </div>
+  
   <!-- Content -->
   <div class="twelve columns">
-    <h2 id="page-title">{{ page.title }}</h2>
     {{ content }}
   </div>
 
   {% if page.images %}
   <aside class="four columns">
     {% for image in page.images %}
-      <img src="/media/img/{{ image }}" alt="{{ page.title }}">
+      <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
     {% endfor %}
   </aside>
   {% endif %}  

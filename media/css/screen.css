@@ -11,6 +11,14 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.row {
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
 a {
   color: #53777A;
   text-decoration: none;
@@ -53,7 +61,7 @@ header small {
 nav {
   height: 51px;
   background: #211d18 url(../img/nav-background.png) no-repeat top left;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 nav ul {
@@ -109,7 +117,7 @@ nav li a:hover {
 }
 
 .columns img {
-    width: 100%;
+    max-width: 100%;
 }
 
 .thumb {
