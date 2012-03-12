@@ -3,7 +3,9 @@ layout: default
 section: projects
 title: DarkMatr
 images:
-  - darkmatr/darkmatr.png
+  - darkmatr/darkmatr1.png
+  - darkmatr/darkmatr2.jpg
+  - darkmatr/darkmatr3.jpg
 ---
 DarkMatr is **an interactive installation** that used the web as if it was a database for collective human intelligence. Using data vizualisation graphics, cinema immersion, open source software and new media (thermal camera and biofilm screen), the human body became a physical interface to connect with the virtualized knowledge of the net.
 
