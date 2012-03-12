@@ -2,6 +2,8 @@
 layout: default
 section: software
 title: NodeBox for OpenGL
+images:
+  - nodebox-opengl/screenshot.jpg
 ---
 [NodeBox for OpenGL][nogl] is a free, cross-platform library for generating 2D animations with Python programming code.
 
@@ -9,3 +11,5 @@ It is built on the [Pyglet][] library and the API is near-identical to NodeBox f
 
 [nogl]: http://beta.nodebox.net/
 [pyglet]: http://pyglet.org/
+
+[www.cityinabottle.org/nodebox/](http://www.cityinabottle.org/nodebox/)
