@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: person
 section: people
 title: Frederik De Bleser
-images: ["people/frederik.jpg"]
+email: frederik@burocrazy.com
+images: 
+  - "people/frederik.jpg"
 ---
 Frederik is a PhD student in the arts at Sint Lucas Antwerpen, studying the link between computers and art. Together with the EMRG team he's created an application called NodeBox that allows designers to create 2D graphics (static, animated or interactive) using Python programming code.
 
