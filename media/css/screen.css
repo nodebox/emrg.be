@@ -59,8 +59,8 @@ header small {
 /* Navigation */
 
 nav {
-  height: 51px;
-  background: #211d18 url(../img/nav-background.png) no-repeat top left;
+  min-height: 51px;
+  background: #1d1b15 url(../img/nav-background.png) no-repeat top left;
   margin-bottom: 20px;
 }
 
@@ -74,7 +74,7 @@ nav li {
 
 nav li a {
   height: 21px;
-  color: #fff;
+  color: #ddd;
   float: left;
   display: inline-block;
   margin: 0;
@@ -106,6 +106,8 @@ nav li a:hover {
 #publications .publications,
 #gallery .gallery,
 #contact .contact {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.8);
+  border-right: 0;
   background: rgba(0, 0, 0, 0.3);
 }
 
