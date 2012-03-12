@@ -14,6 +14,6 @@ The game environment is based on the principle of emergence (Goldstein, 1999). O
 
 Complex social behavior then emerges by itself as organisms interact with each other. Species with a good strategy will survive and evolve over time, will adapt, will look different. The gaming environment changes procedurally, there is no preprogrammed story or pathway. We don't control the biotope. The creatures will find their own way and either co-exist or fight for limited space and food.
 
-<http://www.cityinabottle.org>
+[www.cityinabottle.org](http://www.cityinabottle.org)
 
 [vaf]: http://www.vaf.be/
