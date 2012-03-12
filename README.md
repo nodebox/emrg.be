@@ -46,6 +46,12 @@ Content is written in [Markdown](http://daringfireball.net/projects/markdown/). 
     ---
     Content goes here using [Markdown](http://daringfireball.net/projects/markdown/).
 
+Taking Screenshots
+------------------
+We use Mac OS X to capture screenshots. If you capture full-screen windows, turn off shadows. In the Terminal, type:
+
+    defaults write com.apple.screencapture disable-shadow -bool true
+    killall SystemUIServer
 
 Frameworks
 ----------
