@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: person
 section: people
 title: Lucas Nijs
 email: lucasnijs@gmail.com

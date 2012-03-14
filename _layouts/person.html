@@ -13,11 +13,11 @@ layout: base
     {{ content }}
   </div>
 
-  {% if page.images %}
   <aside class="four columns">
+  {% if page.images %}
     {% for image in page.images %}
       <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
     {% endfor %}
-    <p>email: <strong>{{ page.email }}</strong></p>
-  </aside>
   {% endif %}  
+  <p>email: <strong>{{ page.email }}</strong></p>
+  </aside>

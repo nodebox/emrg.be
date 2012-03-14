@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: person
 section: people
 title: Tom De Smedt
+email: tom@organisms.be
 ---
-Content about Tom De Smedt goes here.
+TODO Add content here.

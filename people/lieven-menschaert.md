@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: person
 section: people
 title: Lieven Menschaert
+email: lievenmenschaert@gmail.com
 ---
-test
+TODO Add content here.
