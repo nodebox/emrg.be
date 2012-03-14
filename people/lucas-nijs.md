@@ -2,8 +2,9 @@
 layout: default
 section: people
 title: Lucas Nijs
+email: lucasnijs@gmail.com
 images:
-   - people/lucasnijs.png
+   - "people/lucasnijs.png"
 ---
 Lucas has been a freelance graphic designer since 1981, employed at Apple Computer Europe in Paris from 1989 till 1994. He has been teaching at the St. Lucas School of Arts, Antwerp, Belgium, the Plantin Genootschap Antwerp, Belgium, and the Lahti Institute of Design, Finland since 1983. He has been leading the Experimental Media Research Group since 2004.
 
@@ -45,6 +46,7 @@ NodeBox, Lahti, 2010<br>
 
 **Published**<br>
 Typeface Always Twelve by 2Rebels, Canada, 2001<br>
+Ideas from the Heart, article in "3pts" publication, Institute of Design, Lahti, may 2002 <br>
 AD LIB, report and cd-rom, ELIA conference, Dublin, Ireland, 2002<br>
 Travelling Letters, ISBN 978-609-8000-03-0, 2010<br>
 Transit, ISBN 978-609-8000-04-7, 2011<br>
