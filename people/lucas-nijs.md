@@ -12,7 +12,7 @@ Lucas has been a freelance graphic designer since 1981, employed at Apple Comput
 
 
 
-**Conference Presentations**
+**Conference Presentations**<br>
 You are my Type, Lahti, Finland, 2001<br>
 ATypI, Praag, 2004<br>
 ATypI, Helsinki, 2005<br>
