@@ -29,6 +29,13 @@ NodeBox 2 runs on Mac, Windows and Linux. Actual development has stopped.
 
 [View Website](http://beta.nodebox.net/)
 
+NodeBox/OpenGL
+---------
+NodeBox/OpenGL was initiated as part of a research project called "City in a bottle". The need for real time speed in developing a game led to the development of NodeBox/OpenGL.
+
+[Read More](http://www.cityinabottle.org/) | [View Website](http://www.cityinabottle.org/)
+
+
 NodeBox 1
 ---------
 NodeBox 1 was initiated as a research project and grew out of frustration with existing design tools. NodeBox is now a serious playground for research in design automation and AI, with many libraries. It has since evolved into a new tool, called NodeBox 2.
