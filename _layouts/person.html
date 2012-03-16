@@ -19,5 +19,5 @@ layout: base
       <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
     {% endfor %}
   {% endif %}  
-  <p>email: <strong>{{ page.email }}</strong></p>
+  <p>email: <strong>{{ page.email|scramble_text }}</strong></p>
   </aside>
