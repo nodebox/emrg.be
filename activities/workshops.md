@@ -17,9 +17,9 @@ Emrg organised workshops since 2004 in a number of institutions such as
 * [Khlim - Media and Design Academy, Genk, Belgium](http://www.mad-fac.be/)
 * [Vilnius Academy of Arts, Vilnius, Lithuania](http://www.vda.lt)
 
-We keep blogs on most the recent workshops at [our workshops page](http://workshops.nodebox.net/). Feel free to browse through them and see what students, mostly without any previous knowledge, did with NodeBox in a period of one (or sometimes) two weeks.
+We keep **a blog on most the recent workshops** at [our workshops page](http://workshops.nodebox.net/). Feel free to browse through them and see what students, mostly without any previous knowledge, did with NodeBox in a period of one (or sometimes) two weeks.
 
-People or organizations interested in organizing a workshop can contact us:  
+People or organizations **interested in organizing a workshop** can **contact us**:  
 
 <address>
   Sint Lucas Antwerpen <br>
