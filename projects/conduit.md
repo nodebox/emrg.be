@@ -4,7 +4,7 @@ section: projects
 title: Conduit
 images:
   - conduit/laura_at_muhka.jpg
-  - conduit/darkmatr.jpg
+  - conduit/PovNB.jpg
   - conduit/satcic.jpg
 ---
 Conduit is a new research project within EMRG. It sees the computer more as a "bicycle of the mind" (Jobs, 1984): no longer as a box with a screen, mouse and keyboard but as **a central pivot to a connected whole**.
