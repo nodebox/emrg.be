@@ -2,6 +2,10 @@
 layout: default
 section: activities
 title: Workshops
+images:
+  - workshops/ws1.jpg
+  - workshops/ws2.png
+  - workshops/ws3.png
 ---
 Emrg organised workshops since 2004 in a number of institutions such as 
 
