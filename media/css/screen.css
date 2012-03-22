@@ -232,6 +232,7 @@ footer .copyright {
 
 .news.box article {
   padding: 0 10px;
+  margin: 10px 0;
 }
 
 .news.box time {
