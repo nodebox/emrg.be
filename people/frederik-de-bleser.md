@@ -15,9 +15,9 @@ Frederik is co-founder of EMRG and the author of NodeBox. His PhD research studi
 
 <h3>Software projects</h3>
 
-<div class="box"><a href="../software/nodebox-3" class="tag-software">NodeBox</a> (2008). A cross-platform, free software application for creating generative graphics using a node-based UI. Instead of writing code users can connect visual blocks (called <em>nodes</em>) together into networks, creating visually rich compositions.</div>
+<div class="box"><a href="../software/nodebox-3" class="tag-software">NodeBox 3</a> (2008). A cross-platform, free software application for creating generative graphics using a node-based UI. Instead of writing code users can connect visual blocks (called <em>nodes</em>) together into networks, creating visually rich compositions.</div>
 
-<div class="box"><a href="../software/nodebox-1" class="tag-software">NodeBox classic</a> (2004). A software application for Mac OS X that generates 2D graphics (static, animated or interactive) using Python programming code.</div>
+<div class="box"><a href="../software/nodebox-1" class="tag-software">NodeBox 1</a> (2004). A software application for Mac OS X that generates 2D graphics (static, animated or interactive) using Python programming code.</div>
 
 <h3>Personal website</h3>
 

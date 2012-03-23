@@ -7,7 +7,7 @@ title: People
 <div class="box">
 	<img src="/media/img/avatar.png" align="left" /> 
 	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>researcher &amp; PhD student, works on 
-	<a href="../software/nodebox-3.html" class="tag-software">nodebox3</a>.
+	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
 <div class="box">
@@ -20,13 +20,13 @@ title: People
 <div class="box">
 	<img src="/media/img/avatar.png" /> 
 	<a href="stefan-gabriels.html">Stefan Gabriëls</a><br>researcher, works on 
-	<a href="../software/nodebox-3.html" class="tag-software">nodebox3</a>.
+	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
 <div class="box">
 	<img src="/media/img/avatar.png" /> 
 	<a href="lieven-menschaert.html">Lieven Menschaert</a><br>researcher, works on 
-	<a href="../software/nodebox-3.html" class="tag-software">nodebox3</a>.
+	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
 <div class="box">

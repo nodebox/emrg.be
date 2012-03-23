@@ -9,4 +9,4 @@ Lieven holds a bachelor degree in social sciences and a master degree in multime
 
 <h3>Software projects</h3>
 
-<div class="box"><a href="../software/nodebox-3" class="tag-software">NodeBox</a> (2008). A cross-platform, free software application for creating generative graphics using a node-based UI. Instead of writing code users can connect visual blocks (called <em>nodes</em>) together into networks, creating visually rich compositions.</div>
+<div class="box"><a href="../software/nodebox-3" class="tag-software">NodeBox 3</a> (2008). A cross-platform, free software application for creating generative graphics using a node-based UI. Instead of writing code users can connect visual blocks (called <em>nodes</em>) together into networks, creating visually rich compositions.</div>
