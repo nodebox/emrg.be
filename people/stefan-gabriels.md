@@ -4,4 +4,8 @@ section: people
 title: Stefan Gabriëls
 email: stefan.gabriels@gmail.com
 ---
-Stefan Gabriëls, who is connected at Sint Lucas Antwerpen as a researcher for EMRG, joined the team in 2009. He is a computer science graduate with a keen interest in computer graphics and illustration. Stefan has written a couple of cross platform implementations of NodeBox 1 and is the co-author of NodeBox 2. 
+Stefan Gabriëls joined the Experimental Media Research Group in 2009. He holds a bachelor degree in software engineering and has a keen interest in computer graphics and illustration. Stefan is the co-author of the node-based NodeBox 3. 
+
+<h3>Software projects</h3>
+
+<div class="box"><a href="../software/nodebox-3" class="tag-software">NodeBox</a> (2008). A cross-platform, free software application for creating generative graphics using a node-based UI. Instead of writing code users can connect visual blocks (called <em>nodes</em>) together into networks, creating visually rich compositions.</div>
