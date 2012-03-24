@@ -10,6 +10,17 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+table th { font-weight: normal; text-transform: uppercase; }
+table th,
+table td { 
+    border: 1px solid #ccc; 
+    font-size: 85%; 
+    text-align: left; 
+    padding: 2px 5px 2px 5px !important; 
+    white-space: nowrap; 
+}
+
 .row {
     margin-bottom: 5px;
 }
@@ -174,6 +185,10 @@ aside {
     padding-bottom: 10px;
 }
 
+aside img {
+    margin-bottom: 10px;
+}
+
 
 /* Footer */
 
@@ -283,7 +298,7 @@ footer .copyright {
 .news.box, 
 .news.box a { color: rgb(130,140,150); }
 .news.box h2 { font-weight: normal; }
-.news.box h3 { font-weight: normal; }
+.news.box h3 { font-weight: normal; text-transform: none; }
 .news.box article {
     margin: 2px;
     padding: 10px;

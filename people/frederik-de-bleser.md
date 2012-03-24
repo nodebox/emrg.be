@@ -6,7 +6,7 @@ email: frederik@burocrazy.com
 images: 
   - "people/frederik.jpg"
 ---
-Frederik is co-founder of EMRG and the author of NodeBox. His PhD research studies the link between computers and art: the impact of procedural graphics applications such as NodeBox on graphic designers. Specifically, it wants to know if designers using this software are:
+Frederik is co-founder of EMRG and the author of NodeBox. He owns a private design company called Burocrazy. His PhD research studies the link between computers and art: the impact of procedural graphics applications on graphic designers. Specifically, if designers using this software are:
 
 1. More efficient: can designers produce good designs faster?
 2. More comprehensive: can they try out more things before settling on a finished design?

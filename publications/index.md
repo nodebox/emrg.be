@@ -14,10 +14,18 @@ title: Publications
 <br>
 <h2>Conference Lectures</h2>
 
+<div class="publication talk box">Nijs, L. (2011). <cite>Experiment Media Research Group</cite>. Presented at the Integrated 2011 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.</div>
+
 <div class="publication talk box">De Smedt, T., Lechat L., Daelemans W. (2011).  <cite>Generative Art Inspired by Nature, Using NodeBox.</cite> Presented at 9th European event of Evolutionary Music, Sound an Art (EvoMusArt2011), Torino, Italy</div>
 
-<div class="publication talk box">De Bleser, F., De Smedt T. (2010). <cite>NodeBox 2.</cite> Presented at Libre Graphics Meeting (LGM 2010), Pianofabriek, Brussels, Belgium.</div>
+<div class="publication talk box">De Smedt, T., Daelemans W. (2010). <cite>Computational approaches to creativity</cite>. Presented at Computational Linguistics in Flanders (CLIF), Antwerpen, Belgium.</div>
 
-<div class="publication talk box">De Smedt, T. (2008). <cite>Computational creativity and generative art.</cite> Presented at the AI &amp; Creativity symposium, Radboud Universiteit, Nijmegen, The Netherlands.</div>
+<div class="publication talk box">De Bleser, F., De Smedt T. (2010). <cite>NodeBox 2</cite>. Presented at Libre Graphics Meeting (LGM 2010), Pianofabriek, Brussels, Belgium.</div>
 
-<div class="publication talk box">De Smedt, T., De Bleser F., Daelemans W. (2008). <cite>NodeBox 2.</cite> Presented at The Agile Mind symposium, Flemish Academic Centre for Science and the Arts, Brussels, Belgium.</div>
+<div class="publication talk box">De Bleser, F., De Smedt T., Marinus, M., Lechat, L. (2010). <cite>NodeBox for OpenGL</cite>. Presented at Gamezone 2010, Internationale Kunstcampus deSingel, Antwerpen, Belgium.</div>
+
+<div class="publication talk box">De Bleser, F., De Smedt T. (2009). <cite>Gravital: natural language processing for computer graphics</cite>. Presented at the Integrated 2009 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.</div>
+
+<div class="publication talk box">De Smedt, T. (2008). <cite>Computational creativity and generative art</cite>. Presented at the AI &amp; Creativity symposium, Radboud Universiteit, Nijmegen, The Netherlands.</div>
+
+<div class="publication talk box">De Smedt, T., De Bleser F., Daelemans W. (2008). <cite>Gravital: natural language processing for computer graphics</cite>. Presented at The Agile Mind symposium, Flemish Academic Centre for Science and the Arts, Brussels, Belgium.</div>

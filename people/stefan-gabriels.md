@@ -4,7 +4,7 @@ section: people
 title: Stefan Gabriëls
 email: stefan.gabriels@gmail.com
 ---
-Stefan Gabriëls joined the Experimental Media Research Group in 2009. He holds a bachelor degree in software engineering and has a keen interest in computer graphics and illustration. Stefan is the co-author of the node-based NodeBox 3. 
+Stefan Gabriëls joined the Experimental Media Research Group in 2009. He holds a bachelor degree in software engineering and is studying for a master degree in arts. He has a specific interest in computer graphics and illustration. He is the co-author of NodeBox 3. 
 
 <h3>Software projects</h3>
 

@@ -5,7 +5,7 @@ title: Lieven Menschaert
 email: lievenmenschaert@gmail.com
 ---
 
-Lieven holds a bachelor degree in social sciences and a master degree in multimedia design. He teaches at the Sint Lucas School of Arts, Antwerpen and MAD faculty, Genk. He has been giving NodeBox classes since 2006 and is an EMRG member since 2007. He has an interest in design, electronics, physical computing and bricolage in general.
+Lieven holds a bachelor degree in social sciences and a master degree in new media. He teaches at the Sint Lucas School of Arts (Antwerp, BE) and the MAD faculty (Genk, BE). He has been giving NodeBox classes since 2006 and is an EMRG member since 2007. He has an interest in design, electronics and physical computing.
 
 <h3>Software projects</h3>
 
