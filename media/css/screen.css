@@ -245,11 +245,40 @@ footer .copyright {
 
 /* Tags */
 
+.author {
+    color: inherit;
+    text-decoration: underline;
+}
+
 .tag-software {
     text-transform: uppercase;
     font-size: 80%;
     font-weight: bold;
     color: rgb(35,55,100);
+}
+
+.tag-feature {
+    background: #555;
+    padding: 1px 3px 1px 3px;
+    border-radius: 3px;
+    color: white;
+    font-size: 80%;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+a.homepage {
+    display: inline-block;
+    background: url(../img/home.png) no-repeat;
+    padding: 5px 0 5px 30px;
+    color: #3572a4;
+}
+
+a.download {
+    background: url(../img/download.png) no-repeat;
+    padding: 5px 0 5px 30px;
+    color: #3572a4;
 }
 
 /* Boxes */
@@ -340,11 +369,11 @@ footer .copyright {
 }
 
 .publication.talk.box {
-    background: rgb(239,245,249);
-    border: 1px solid rgb(224,230,235);
+    background: rgb(220,240,225);
+    border: 1px solid rgb(210,235,215);
 }
-.publication.box a:hover { text-decoration: none; }
-.publication.box a {
+.publication.box a.attachment:hover { text-decoration: none; }
+.publication.box a.attachment {
     display: block;
     float: right;
     position: relative;
@@ -369,3 +398,7 @@ footer .copyright {
 #people #content img { padding: 0 8px 5px 0; clear: both; float: left; }
 #people p { max-width: 550px; }
 #people .box { max-width: 550px; }
+
+/* Software */
+
+#software .twelve h2 { color: #3572a4; font-size: 150%; font-weight: normal; }

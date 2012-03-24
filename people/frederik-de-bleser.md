@@ -8,9 +8,9 @@ images:
 ---
 Frederik is co-founder of EMRG and the author of NodeBox. He owns a private design company called Burocrazy. His PhD research studies the link between computers and art: the impact of procedural graphics applications on graphic designers. Specifically, if designers using this software are:
 
-1. More efficient: can designers produce good designs faster?
-2. More comprehensive: can they try out more things before settling on a finished design?
-3. More creative: can they produce new things beyond the state of the art?
+1. Efficient: can designers produce good designs faster?
+2. Comprehensive: can they try out more things before settling on a finished design?
+3. Creative: can they produce new things beyond the state-of-the-art?
 4. Self-reliant: are they able to help themselves if they get stuck?
 
 <h3>Software projects</h3>
