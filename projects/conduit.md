@@ -5,7 +5,7 @@ title: Conduit
 images:
   - [conduit/laura_at_muhka.jpg, Laura Broux @ MuHKA]
   - [conduit/PovNB.jpg, Persistence of Vision experiment]
-  - conduit/satcic.jpg
+  - [conduit/satcic.jpg, Tim De Cort SATCIC Word in Progress]
 ---
 Conduit is a new research project within EMRG. It sees the computer more as a "bicycle of the mind" (Jobs, 1984): no longer as a box with a screen, mouse and keyboard but as **a central pivot to a connected whole**.
 
