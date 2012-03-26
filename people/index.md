@@ -4,6 +4,8 @@ section: people
 title: People
 ---
 
+<p><small>In alphabetical order:</small></p>
+
 <div class="box">
 	<img src="/media/img/avatar.png" align="left" /> 
 	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>researcher &amp; PhD student, works on 

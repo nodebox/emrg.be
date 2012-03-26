@@ -65,6 +65,12 @@ time {
   font-size: 90%;
 }
 
+hr {
+    height: 0px !important;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+
 #page {
   margin: 0 auto;
 }
@@ -187,6 +193,9 @@ aside {
 
 aside img {
     margin-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -245,24 +254,25 @@ footer .copyright {
 
 /* Tags */
 
-.author {
+.author { /* Lucas Nijs */
     color: inherit;
     text-decoration: underline;
 }
 
-.tag-software {
+.tag-software,
+.tag-project { /* NodeBox, Pyglet */
     text-transform: uppercase;
     font-size: 80%;
     font-weight: bold;
     color: rgb(35,55,100);
 }
 
-.tag-feature {
-    background: #555;
+.tag-feature { /* free, cross-platform */
+    background: rgb(65,120,160);
     padding: 1px 3px 1px 3px;
     border-radius: 3px;
     color: white;
-    font-size: 80%;
+    font-size: 10px;
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1em;
@@ -368,10 +378,6 @@ a.download {
     white-space: nowrap;
 }
 
-.publication.talk.box {
-    background: rgb(220,240,225);
-    border: 1px solid rgb(210,235,215);
-}
 .publication.box a.attachment:hover { text-decoration: none; }
 .publication.box a.attachment {
     display: block;
@@ -388,6 +394,17 @@ a.download {
     line-height: 1em;
 }
 
+.publication.exhibition.box,
+.publication.talk.box {
+    background: rgb(220,240,225);
+    border: 1px solid rgb(210,235,215);
+}
+
+.publication.exhibition.box a.attachment,
+.publication.talk.box a.attachment {
+    background: #68973b url(../img/publication-download2.png) repeat-x bottom left; 
+}
+
 /* Home */
 #home .three.columns {
     width: 185px;
@@ -401,4 +418,5 @@ a.download {
 
 /* Software */
 
-#software .twelve h2 { color: #3572a4; font-size: 150%; font-weight: normal; }
+#software .twelve h2 { color: #3572a4; font-size: 24px; font-weight: normal; margin-bottom: 0.6em; }
+#software p { max-width: 550px; }

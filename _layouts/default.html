@@ -16,7 +16,7 @@ layout: base
   {% if page.images %}
   <aside class="four columns">
     {% for image in page.images %}
-      <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
+      <a class="thumb" rel="images" href="/media/{{ image | split:',' | first }}"><img src="/media/{{ image | split:',' | first }}" alt="{{ page.title }}"></a>
     {% endfor %}
   </aside>
   {% endif %}  

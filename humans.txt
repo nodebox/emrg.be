@@ -2,7 +2,8 @@
 
 TEAM
 ====
-- Frederik De Bleser (www.enigmeta.com): Graphic Design, Coding
+- Frederik De Bleser: Coding
+- Tom De Smedt: Design
 
 SITE
 ====
