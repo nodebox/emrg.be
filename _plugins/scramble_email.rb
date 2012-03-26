@@ -7,7 +7,7 @@ module ScrambleTextFilter
     enc << rand(255)
     
     text.chars.each do |c|
-      enc << c.ord - enc.last
+      enc << c.unpack('c')[0] - enc.last
     end
     enc
   end
