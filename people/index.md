@@ -7,7 +7,7 @@ title: People
 <p><small>In alphabetical order:</small></p>
 
 <div class="box">
-	<img src="/media/img/avatar.png" align="left" /> 
+	<img src="/media/img/avatar.png" /> 
 	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>researcher &amp; PhD student, works on 
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
