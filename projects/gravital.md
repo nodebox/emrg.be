@@ -3,10 +3,10 @@ layout: default
 section: projects
 title: Gravital
 images:
-  - gravital/gravital.jpg
-  - gravital/gravital2.jpg
-  - gravital/gravital3.jpg
-  - gravital/gravital4.jpg
+  - [gravital/gravital.jpg, Proposal Cover]
+  - [gravital/gravital2.jpg, Sentence Analysis] 
+  - [gravital/gravital3.jpg, Perception Network]
+  - [gravital/gravital4.jpg, One of the earliest Node Networks]
 ---
 Gravital was funded by  <a href="http://www.iwt.be"><img src="/media/gravital/iwt.jpg" height = "15" width = "20"></a> <a href="http://www.iwt.be">IWT</a>, the Institute for the Promotion of Innovation by Science and Technology in Flanders, and a consortium of 11 Belgian companies active in the creative industry. The project was a collaborative effort by the Experimental Media Research Group at the Sint Lucas School of Arts (Antwerp, Belgium) and the CNTS Language Technology Group at the University of Antwerp (Antwerp, Belgium) now called <a href="http://www.clips.ua.ac">CLiPS</a> (Computational Linguistics & Psycholinguistics Research Center). The project ran from January 2007 till March 2009. It resulted in the node-based approach that is still used in the latest NodeBox version.
 
