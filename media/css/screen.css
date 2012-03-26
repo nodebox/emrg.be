@@ -158,6 +158,7 @@ nav li a:hover {
 #publications .publications,
 #gallery .gallery,
 #contact .contact {
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
     background: rgba(0,0,0, 0.3);
     border-right: 0;
 }
