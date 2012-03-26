@@ -150,7 +150,7 @@ Click a link in the overview below to view related background information:
 		<td>Sint Lucas, Antwerp</td>
 		<td>BE</td>
 		<td>2012</td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
 		<td></td>
 	</tr>
 </table>
