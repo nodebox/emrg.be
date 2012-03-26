@@ -1,11 +1,11 @@
 ---
-layout: software
+layout: default
 section: software
 title: Software
 images:
-  - software/nodebox3.jpg
-  - software/nogl.jpg
-  - software/nodebox1.jpg
+  - [software/nodebox3.jpg, NodeBox 3]
+  - [software/nogl.jpg, NodeBox for OpenGL]
+  - [software/nodebox1.jpg, NodeBox 1]
 ---
 
 NodeBox 3

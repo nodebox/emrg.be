@@ -3,9 +3,9 @@ layout: default
 section: teaching
 title: Teaching
 images:
-  - teaching/ws2.jpg
-  - teaching/ws1.jpg
-  - teaching/vampyr.jpg
+  - [teaching/ws2.jpg, 2011 Vilnius workshop]
+  - [teaching/ws1.jpg, 2011 Helsinki workshop]
+  - [teaching/vampyr.jpg, 2011 master thesis Laura Broux]
 ---
 **EMRG** hosts new media classes at the Sint Lucas School of Arts (Antwerpen, BE) in the 2nd and 3rd bachelor year. Classes usually span one semester and have a specific focus, for example generative art, data visualization or experimental typography. Students willing to dive in further are encouraged to adopt generative tools like [NodeBox](../software) within their master thesis. We have had students experimenting with real-time audio/video performance, visualization based on Twitter data, drawings based on text classification and sentiment analysis, for example.
 

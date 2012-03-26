@@ -18,6 +18,7 @@ layout: base
     {% for image in page.images %}
       {% if image.size == 2 %}
         <a class="thumb" rel="images" href="/media/{{ image[0] }}" title="{{ image[1] }}"><img src="/media/{{ image[0] }}" alt="{{ image[1] }}"></a>
+		<div class="caption">{{ image[1] }}</div>
       {% else %}
         <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>      
       {% endif %}
