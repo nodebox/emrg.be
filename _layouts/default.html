@@ -16,7 +16,11 @@ layout: base
   {% if page.images %}
   <aside class="four columns">
     {% for image in page.images %}
-      <a class="thumb" rel="images" href="/media/{{ image | split:',' | first }}"><img src="/media/{{ image | split:',' | first }}" alt="{{ page.title }}"></a>
+      {% if image.size == 2 %}
+        <a class="thumb" rel="images" href="/media/{{ image[0] }}" title="{{ image[1] }}"><img src="/media/{{ image[0] }}" alt="{{ image[1] }}"></a>
+      {% else %}
+        <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>      
+      {% endif %}
     {% endfor %}
   </aside>
   {% endif %}  
