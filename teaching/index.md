@@ -145,6 +145,14 @@ Click a link in the overview below to view related background information:
 		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td><a href="http://workshops.nodebox.net/2012-antwerp/">NodeBox</a></td>
+		<td>Sint Lucas, Antwerp</td>
+		<td>BE</td>
+		<td>2012</td>
+		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td></td>
+	</tr>
 </table>
 
 People or organizations interested in organizing a workshop can <a href="../contact/">contact us</a>.  
