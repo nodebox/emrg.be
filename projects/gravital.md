@@ -1,44 +1,52 @@
 ---
-layout: default
+layout: project
 section: projects
 title: Gravital
+promotor:
+  - [Lucas Nijs, ../people/lucas-nijs.html]
+  - [Walter Daelemans, http://www.clips.ua.ac.be/people/walter-daelemans]
+team:
+  - [Frederik De Bleser, ../people/frederik-de-bleser.html]
+  - [Tom De Smedt, ../people/tom-de-smedt.html]
+  - [Vincent Van Asch, http://www.clips.ua.ac.be/people/vincent-van-asch]
+  - [Lucas Nijs, ../people/lucas-nijs.html]
+  - [Walter Daelemans, http://www.clips.ua.ac.be/people/walter-daelemans]
+keywords:
+  - generative art
+  - node-based
+  - NLP
+  - commonsense
+budget:
+  - EUR 267,612
+period:
+  - 2007-2009
 images:
-  - [gravital/gravital.jpg, Proposal Cover]
-  - [gravital/gravital2.jpg, Sentence Analysis] 
-  - [gravital/gravital3.jpg, Perception Network]
-  - [gravital/gravital4.jpg, One of the earliest Node Networks]
+  - [gravital/gravital1.jpg, Early NodeBox 2 prototype]
+  - [gravital/gravital2.jpg, Commonsense network browser]
 ---
-Gravital was funded by  <a href="http://www.iwt.be"><img src="/media/gravital/iwt.jpg" height = "15" width = "20"></a> <a href="http://www.iwt.be">IWT</a>, the Institute for the Promotion of Innovation by Science and Technology in Flanders, and a consortium of 11 Belgian companies active in the creative industry. The project was a collaborative effort by the Experimental Media Research Group at the Sint Lucas School of Arts (Antwerp, Belgium) and the CNTS Language Technology Group at the University of Antwerp (Antwerp, Belgium) now called <a href="http://www.clips.ua.ac">CLiPS</a> (Computational Linguistics & Psycholinguistics Research Center). The project ran from January 2007 till March 2009. It resulted in the node-based approach that is still used in the latest NodeBox version.
 
-**Budget:** IWT/TETRA 247.541 euro + 20.071 euro <br>
-**Project initiator:** Karel de Grote-Hogeschool, department Sint Lucas Antwerpen <br>
-**Project leader:** Lucas Nijs <br>
-**Project researchers:** Frederik De Bleser, Tom De Smedt <br>
-**University partner:** UA, department Linguistics, prof. Walter Daelemans, Vincent Van Asch<br>
+<h3>Abstract</h3>
+Gravital is funded by IWT (Institute for the Promotion of Innovation by Science and Technology in Flanders) and a consortium of 11 Belgian companies active in the creative industry. It is a collaborative effort by EMRG and <a href="http://www.clips.ua.ac.be">CLiPS</a> (Computational Linguistics & Psycholinguistics Research Center, University of Antwerp). The aim is a NodeBox spin-off that links language to AI and to design. Like NodeBox, you will be able to create visuals using simple Python programming code, but also using natural language (i.e. plain English) or with a node-based interface in which you can reconnect blocks like playing with Lego. <em>How do we decide what a visual shape will look like based on textual content?</em> At the moment a visual element is created its visual properties need to be resolved: is it big or small, dark or light, round or edgy? Even when no restrictive statement has been made ("it is red") the system should be able to choose an appropriate solution.
 
+<h3>Deliverables</h3>
+[NodeBox 3](../software/nodebox-3.html) + 
+[MBSP for Python](http://www.clips.ua.ac.be/pages/MBSP)
 
-**Participating companies:**<br>
-<a href="http://www.kandesign.com/">KAN Creative Consultants NV</a>, Antwerpen.<br>
-<a href="http://www.netlash-bseen.be/">Netlash BVBA</a>, Gent.<br>
-<a href="http://www.antilope.com/nl/bedrijfsgegevens.html">Pre Press Satelit / Antilope NV</a>, Lier, (RvO)<br>
-<a href="http://www.k15.be/">K15 BVBA</a>, Antwerpen<br>
-<a href="http://www.vigc.be/">VIGC VZW</a>, Turnhout (RvO)<br>
-<a href="http://www.visionandfactory.com/index.php/Home">visionandfactory / integrated design</a>, Brussel (RvO)<br>
-<a href="http://www.achilles.be/">Achilles Associates BVBA</a>, Mechelen, (RvO)<br>
-<a href="http://www.cronos.be/">Cronos NV</a>, Kontich, (RvO)<br>
-<a href="http://www.luon.com/">LUON</a>, Overijse, (RvO)<br>
-<a href="http://www.addictlab.com/">Lab.001 / Ad!dict Creative Labb</a>, Brussel<br>
-<a href="http://www.dehaes.be/welkom/index.html">Drukkerij De Haes</a>, Mechelen (RvO)<br>
+<h3>References</h3>
+<p class="cite"><small>De Smedt T., De Bleser F., Nijs L. (2010). NodeBox 2. In: Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), pp. 350-352. ISBN 978-3-86895-103-5</small></p>
+<p class="cite"><small>De Smedt T., Van Asch V.,, Daelemans W. (2010). <cite>Memory-based shallow parser for Python.</cite> CLiPS Technical Report Series, CTRS-002, ISSN 2033-3544.</small></p>
 
-Gravital is a <a href="http://nodebox.net">NodeBox</a> spin-off that links language to AI and to design. Like NodeBox, you will be able to create visuals using simple Python programming code, but also using natural language (i.e. plain English) or with a node-based interface in which you can reconnect blocks like playing with Lego.
+<h3>Consortium</h3>
+In order of appearance:
 
-Translating language to visual output involves two important steps: Graphical Language Processing and a Smart Default Hierarchy. An interesting bit can be said about smart defaults without going into the technical details and challenges of language parsing. 
-
-How do we decide what a visual shape will look like based on the textual content?
-Assume we have translated a set of visual elements from a textual assignment. At the moment a visual element is created its visual properties need to be resolved: is it big or small, dark or light, round or edgy? Even when no restrictive statement has been made ("it is red") the system should be able to choose an appropriate solution. Several AI-modules are invoked when this type of under-specification occurs. The goal of the AI-modules is to pick default visual properties (position, size, color, shape, texture, feel) specific to the design context.
-
-All the AI-modules share a characteristic in that they resolve ambiguity with the use of so-called "perceptonyms" (in analogy to "hyponyms" and "hypernyms" in WordNet). Perceptonyms are words that describe an unambiguous visual, auditive or tangible property. They are grouped into pairs of opposites such as sharp-soft, dark-bright and heavy-light. When concepts are described in terms of scores along perceptonym pairs we have a way of translating them visually. The word "ball" would score well on softness, brightness and lightness, therefore the system can interpret a ball visually as being a more round object having light and colorful hues.
-
-Each perceptonym maps to a range of display options. For example, the "dark" range applies to the color of an object, defined in the Hue/Saturation/Brightness color model, with saturation constrained between 70% and 100% and brightness constrained between 15% and 40%. The darker an object scores, the lower its saturation and brightness will be when visualized.
-
-Perceptonym scores are aggregated automatically with the use of internet search engines. More data results will be retrieved for a "soft ball" than for a "sharp ball" - a ball therefore scores better on softness. The system has a cached network of hierarchical data with specific concepts such as "beach ball" and "free jazz" at the top and "toy" and "music" at the bottom. Using lexical hypernym ("is-a") relations in WordNet the system will collapse through the database until a solution is found, e.g. even when no perceptonym information has been aggregated for "beach ball" it can still identify a ball as being a toy and use that information. At the bottom level a random solution is proposed.
+* [KAN Creative Consultants](http://www.kandesign.com)
+* [Netlash](http://www.netlash-bseen.be)
+* [Antilope](http://www.antilope.com)
+* [K15](http://www.k15.be)
+* [VIGC](http://www.vigc.be)
+* [visionandfactory](http://www.visionandfactory.com)
+* [Achilles Associates](http://www.achilles.be)
+* [Cronos](http://www.cronos.be)
+* [LUON](http://www.luon.com)
+* [Ad!dict Creative Lab](http://www.addictlab.com)
+* [Drukkerij De Haes](http://www.dehaes.be)

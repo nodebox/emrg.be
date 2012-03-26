@@ -60,7 +60,7 @@ img {
     vertical-align: middle;
 }
 
-time {
+time, .budget {
   opacity: 0.5;
   font-size: 90%;
 }
@@ -151,7 +151,7 @@ nav li a:hover {
 }
 
 #home .home,
-#activities .activities,
+#teaching .teaching,
 #projects .projects,
 #software .software,
 #people .people,
@@ -169,8 +169,8 @@ nav li a:hover {
 /* Content */
 
 #content {
-    min-height: 500px;
-    padding-bottom: 250px;
+    min-height: 400px;
+    padding-bottom: 150px;
 }
 
 .columns img {
@@ -186,6 +186,11 @@ nav li a:hover {
     margin-bottom: 0.75em;
     padding-bottom: 20px;
     border-bottom: 1px solid #ccc;
+}
+#page-title h2 {
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
 }
 
 /* Aside */
@@ -261,13 +266,14 @@ footer .copyright {
 
 /* Tags */
 
-.author { /* Lucas Nijs */
+a.author { /* Lucas Nijs */
     color: inherit;
     text-decoration: underline;
 }
 
 .tag-software,
-.tag-project { /* NodeBox, Pyglet */
+.tag-project,
+.tag-keyword { /* NodeBox, Pyglet */
     text-transform: uppercase;
     font-size: 80%;
     font-weight: bold;
@@ -300,12 +306,13 @@ a.download {
 
 /* Boxes */
 
-.box {
+.box,
+.projects-summary #content li {
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 5px;
     background: rgb(232,238,243);
-    border: 1px solid rgb(224,230,235);
+    border: 1px solid rgb(214,220,225);
 }
 
 .box .columns {
@@ -339,10 +346,10 @@ a.download {
 
 .news.box {
     background: rgb(35,45,55);
-    padding: 0 0 91px 0;
+    padding: 0;
 }
 .news.box, 
-.news.box a { color: rgb(130,140,150); }
+.news.box a { color: rgb(140,150,160); }
 .news.box h2 { font-weight: normal; }
 .news.box h3 { font-weight: normal; text-transform: none; }
 .news.box article {
@@ -359,7 +366,7 @@ a.download {
 .software.box {
     width: 696px !important;
     margin-bottom: 25px;
-    padding: 0 0 40px 0;
+    padding: 0 0 42px 0;
 }
 .software.box h2 { color: #333; background: rgb(214,220,230); }
 .software.box small { color: #0b1924; }
@@ -404,7 +411,7 @@ a.download {
 .publication.exhibition.box,
 .publication.talk.box {
     background: rgb(220,240,225);
-    border: 1px solid rgb(210,235,215);
+    border: 1px solid rgb(200,225,205);
 }
 
 .publication.exhibition.box a.attachment,
@@ -417,6 +424,16 @@ a.download {
     width: 185px;
 }
 
+/* News */
+#post { margin-top: 10px; }
+#post p { max-width: 550px; }
+#post p:first-child { 
+    background: url(../img/news.png) no-repeat; padding: 2px 0 0 33px;
+    font-weight: bold; 
+    font-size: 110%; 
+    line-height: 22px; 
+}
+
 /* People */
 
 #people p { max-width: 550px; }
@@ -427,3 +444,40 @@ a.download {
 
 #software .twelve h2 { color: #3572a4; font-size: 24px; font-weight: normal; margin-bottom: 0.6em; }
 #software p { max-width: 550px; }
+
+/* Projects */
+
+.projects-summary h2 { clear: both; padding-top: 15px; }
+.projects-summary #page-title { margin-bottom: 0.5em; padding-bottom: 0.5em; }
+.projects-summary ul { padding: 0; }
+.projects-summary #content li {
+    display: block;
+    float: left;
+    width: 200px;
+    margin: 0 10px 10px 0;
+    height: 90px;
+}
+.projects-summary #content li a {
+    display: block;
+    color: #3572a4;
+    font-size: 17px;
+    margin-bottom: 0.25em;
+}
+.projects-summary #content li em {
+    display: block;
+    font-style: normal;
+    font-size: 85%;
+    color: #777;
+}
+.projects-summary #past_projects + ul li {
+}
+
+.project p,
+.project h3,
+.project .project-summary { max-width: 600px; }
+.project .project-summary  .author,
+.project .project-summary  .tag-keyword { margin-right: 5px; white-space: nowrap; }
+.project .project-summary label { display: block; clear: left; float: left; text-transform: uppercase; width: 80px; height: 1.5em; letter-spacing: -1px; }
+.project .project-summary div { border-bottom: 1px solid #ccc; margin-bottom: 0.5em; }
+.project h3 { border-bottom: 1px solid #ccc; }
+.project p.cite { line-height: 1em; }

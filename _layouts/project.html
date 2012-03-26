@@ -1,0 +1,79 @@
+---
+layout: base
+---
+  <!-- Page Title -->
+  <div class="row">
+    <div class="sixteen columns">
+      <h2 id="page-title">{{ page.title }}</h2>
+    </div>
+  </div>
+  
+  <!-- Content -->
+  <div class="twelve columns project">
+	
+    <div class="project-summary">
+    {% if page.promotor %}
+      <div>
+      <label>Promotor</label>
+      {% for person in page.promotor %}
+        {% if person.size == 2 %}
+          <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
+        {% else %}
+          <span class="author">{{ person }}</span>
+        {% endif %}
+      {% endfor %}
+      </div>
+    {% endif %}
+  
+    {% if page.team %}
+      <div>
+      <label>People</label>
+      {% for person in page.team %}
+        {% if person.size == 2 %}
+          <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
+        {% else %}
+          <span class="author">{{ person }}</span>
+        {% endif %}
+      {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.keywords %}
+      <div>
+      <label>Keywords</label>
+      {% for keyword in page.keywords %}
+        <span class="tag-keyword">{{ keyword }}</span>
+      {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.budget %}
+      <div>
+        <label>Budget</label>
+        <span class="budget">{{ page.budget }}</span>
+      </div>
+    {% endif %}
+
+    {% if page.period %}
+      <div>
+        <label>Period</label>
+        <time>{{ page.period }}</time>
+      </div>
+    {% endif %}
+    </div>
+
+    {{ content }}
+  </div>
+
+  {% if page.images %}
+  <aside class="four columns">
+    {% for image in page.images %}
+      {% if image.size == 2 %}
+        <a class="thumb" rel="images" href="/media/{{ image[0] }}" title="{{ image[1] }}"><img src="/media/{{ image[0] }}" alt="{{ image[1] }}"></a>
+		<div class="caption">{{ image[1] }}</div>
+      {% else %}
+        <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>      
+      {% endif %}
+    {% endfor %}
+  </aside>
+  {% endif %}  
