@@ -140,7 +140,7 @@ title: Publications
 
 <div class="publication talk box">
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2011). 
-	<cite>Experiment Media Research Group</cite>. 
+	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Integrated 2011 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
 </div>
 
@@ -150,7 +150,7 @@ title: Publications
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2011).  
 	<cite>Generative art inspired by nature, in NodeBox.</cite> 
-	Presented at 9th European event of Evolutionary Music, Sound an Art (EvoMusArt2011), Torino, Italy
+	Presented at the 9th European event of Evolutionary Music, Sound an Art (EvoMusArt 2011), Torino, Italy
 </div>
 
 <div class="publication talk box">

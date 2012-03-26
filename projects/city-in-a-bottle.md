@@ -5,11 +5,10 @@ title: City in a Bottle
 promotor:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
 team:
-  - Nicolas Marinus
-  - Ludivine Lechat
-  - Tim Vets
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
-  - [Tom De Smedt, ../people/tom-de-smedt.html]
+  - [Ludivine Lechat, http://ludivinelechat.be]
+  - Nicolas Marinus
+  - Tim Vets
 keywords:
   - generative art
   - emergence

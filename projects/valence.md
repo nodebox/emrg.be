@@ -4,7 +4,6 @@ section: projects
 title: VALENCE
 promotor:
   - Imke Debecker
-  - Jo De Wachter
 team:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
   - [Lieven Menschaert, ../people/lieven-menschaert.html]

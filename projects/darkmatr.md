@@ -5,15 +5,12 @@ title: DarkMatr
 promotor:
   - Tom Heene
 team:
-  - Tom Heene
   - Pieter Heremans
   - [Lieven Menschaert, ../people/lieven-menschaert.html]
   - Lionel Maes
   - Olivier Meunier
   - Gert Aertsen
   - Dries De Roeck
-  - [Tom De Smedt, ../people/tom-de-smedt.html]
-  - Dirk Bollen
 keywords:
   - data visualization
   - immersion
