@@ -94,10 +94,11 @@ However, not everyone is a programmer. Since NodeBox 1, different spin-off versi
 		<td>✓</td>
 	</tr>
 </table>
-<small><sup>1</sup> No longer actively developed.</small><br><br>
+<small><sup>1</sup> No longer actively developed.</small>
 
 <h3>Developers</h3>
-Source code is freely available at: [https://github.com/nodebox](https://github.com/nodebox)
+
+All versions of NodeBox are free software and source code is available on [GitHub](https://github.com/nodebox).
 
 [nodebox1]: /software/nodebox-1.html
 [nodebox3]: /software/nodebox-3.html
