@@ -26,7 +26,7 @@ Click a link in the overview below to view related background information:
 		<th>Assistant Teachers</th>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Re.html">Macromedia Director</a></td>
+		<td><a href="http://www.designlooksnice.com/Re.html">Experimental Typo</a></td>
 		<td>Sint Lucas, Antwerp</td>
 		<td>BE</td>
 		<td>2002</td>
@@ -34,7 +34,7 @@ Click a link in the overview below to view related background information:
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Dublin.html">Macromedia Director</a></td>
+		<td><a href="http://www.designlooksnice.com/Dublin.html">Experimental Typo</a></td>
 		<td>IADT, Dun Laoghaire</td>
 		<td>IE</td>
 		<td>2003</td>
@@ -42,7 +42,7 @@ Click a link in the overview below to view related background information:
 		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Lahti2003.html">Macromedia Director</a></td>
+		<td><a href="http://www.designlooksnice.com/Lahti2003.html">Experimental Typo</a></td>
 		<td>Institute of Design, Lahti</td>
 		<td>FI</td>
 		<td>2003</td>
@@ -50,7 +50,7 @@ Click a link in the overview below to view related background information:
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Rawhide.html">Macromedia Director</a></td>
+		<td><a href="http://www.designlooksnice.com/Rawhide.html">Experimental Typo</a></td>
 		<td>Sint Lucas, Antwerp</td>
 		<td>BE</td>
 		<td>2004</td>
