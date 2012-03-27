@@ -15,10 +15,36 @@ body {
 #content table th,
 #content table td { 
     border: 1px solid #ccc; 
+    border-collapse: collapse;
     font-size: 85%; 
     text-align: left; 
-    padding: 2px 5px 2px 5px !important; 
+    line-height: 1.5em;
+    min-height: 1.5em;
+    padding: 5px !important; 
+    vertical-align: top;
+}
+
+#content table td:first-child {
     white-space: nowrap; 
+} 
+
+#content table tr:nth-child(even) {
+}
+
+/* Improves table layout on mobile devices. */
+@media all and (max-width:640px) {
+    table, thead, tbody, tfoot, th, td, tr { display: block; }
+    th { display: none; }
+    th { margin-top: -1px; }
+    td { margin-top: -1px;  padding-left: 50%;  }
+    td:before { 
+        content: attr(data-title); 
+        display: block; 
+        float: left; 
+        min-width: 75px; 
+        text-transform: uppercase;
+    }
+    tr + tr { margin-top: 1em; }
 }
 
 .row {
@@ -80,15 +106,14 @@ hr {
 header {
     height: 200px;
     background: rgb(30,110,195) url(../img/header-gradient.jpg) repeat-x top left;
+    overflow: hidden;
 }
 
 header .container {
+    width: 1000px;
     height: 200px;
+    padding-left: 50px;
     background: url(../img/header-background.jpg) no-repeat top left;
-    background-size: 100% 200px;
-    -webkit-background-size: 100% 200px; 
-    -moz-background-size: 100% 200px;
-    -o-background-size: 100% 200px;
     padding-top: 40px;
 }
 
@@ -131,6 +156,8 @@ nav li {
 }
 
 nav li a {
+    min-width: 80px;
+    text-align: center;
     height: 15px;
     color: #fff;
     float: left;
@@ -138,13 +165,13 @@ nav li a {
     margin: 0;
     font-size: 15px;
     line-height: 1em;
-    padding: 15px 30px;
-    border-left: 1px solid rgba(0,0,0, 0.2);
+    padding: 15px;
+    border-right: 1px solid rgba(0,0,0, 0.2);
     text-transform: lowercase;
 }
 
 nav li:first-child a {
-    border-left: 0;
+    border-left: 0px solid rgba(0,0,0, 0.2);
 }
 
 nav li:last-child a {
@@ -167,7 +194,7 @@ nav li a:hover {
     -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
     background: rgba(0,0,0, 0.3);
-    border-right: 0;
+    border-right: 1px solid rgba(0,0,0, 0.1);
 }
 
 
@@ -278,6 +305,7 @@ footer .copyright {
 a.author { /* Lucas Nijs */
     color: inherit;
     text-decoration: underline;
+    white-space: nowrap;
 }
 
 .tag-software,
@@ -286,7 +314,7 @@ a.author { /* Lucas Nijs */
     text-transform: uppercase;
     font-size: 85%;
     font-weight: bold;
-    color: rgb(35,55,100);
+    color: rgb(0,40,100);
 }
 
 .tag-keyword {

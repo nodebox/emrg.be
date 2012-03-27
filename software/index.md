@@ -49,49 +49,60 @@ However, not everyone is a programmer. Since NodeBox 1, different spin-off versi
 		<th>Since</th>
 		<th>Platform</th>
 		<th>Language</th>
-		<th>Rendering</th>
+		<th>Engine</th>
 		<th>GUI</th>
 		<th>GPU</th>
 		<th>PDF</th>
 		<th>PNG</th>
 		<th>MOV</th>
-		<th>EXE</th>
 	</tr>
 	<tr>
-		<td>NodeBox 3</td><td>2012</td><td>Windows, Mac, Linux</td><td>Python</td><td>Java2D</td>
-		<td>✓</td>
-		<td></td>
-		<td>✓</td>
-		<td>✓</td>
-		<td>✓</td>
-		<td></td>
+		<td data-title="Version">NodeBox 3</td>
+		<td data-title="Since">2012</td>
+		<td data-title="Platform">Windows, Mac, Linux</td>
+		<td data-title="Language">Python</td>
+		<td data-title="Engine">Java2D</td>
+		<td data-title="GUI">✓</td>
+		<td data-title="GPU"></td>
+		<td data-title="PDF">✓</td>
+		<td data-title="PNG">✓</td>
+		<td data-title="MOV">✓</td>
 	</tr>
 	<tr>
-		<td>NodeBox 2<sup>1</sup></td><td>2008</td><td>Windows, Mac, Linux</td><td>Python</td><td>Java2D</td>
-		<td>✓</td>
-		<td></td>
-		<td>✓</td>
-		<td>✓</td>
-		<td>✓</td>
-		<td></td>
+		<td data-title="Version">NodeBox 2<sup>1</sup></td>
+		<td data-title="Since">2008</td>
+		<td data-title="Platform">Windows, Mac, Linux</td>
+		<td data-title="Language">Python</td>
+		<td data-title="Engine">Java2D</td>
+		<td data-title="GUI">✓</td>
+		<td data-title="GPU"></td>
+		<td data-title="PDF">✓</td>
+		<td data-title="PNG">✓</td>
+		<td data-title="MOV">✓</td>
 	</tr>
 	<tr>
-		<td>NodeBox 1</td><td>2004</td><td>Mac OS X</td><td>Python</td><td>Quartz2D</td>
-		<td>✓</td>
-		<td></td>
-		<td>✓</td>
-		<td>✓</td>
-		<td>✓</td>
-		<td></td>
+		<td data-title="Version">NodeBox 1</td>
+		<td data-title="Since">2004</td>
+		<td data-title="Platform" data-title="Platform">Mac OS X</td>
+		<td data-title="Language">Python</td>
+		<td data-title="Engine">Quartz2D</td>
+		<td data-title="GUI">✓</td>
+		<td data-title="GPU"></td>
+		<td data-title="PDF">✓</td>
+		<td data-title="PNG">✓</td>
+		<td data-title="MOV">✓</td>
 	</tr>
 	<tr>
-		<td>NOGL</td><td>2011</td><td>Windows, Mac, Linux</td><td>Python</td><td>OpenGL</td>
-		<td></td>
-		<td>✓</td>
-		<td></td>
-		<td>✓</td>
-		<td></td>
-		<td>✓</td>
+		<td data-title="Version">NOGL</td>
+		<td data-title="Since">2011</td>
+		<td data-title="Platform">Windows, Mac, Linux</td>
+		<td data-title="Language">Python</td>
+		<td data-title="Engine">OpenGL</td>
+		<td data-title="GUI"></td>
+		<td data-title="GPU">✓</td>
+		<td data-title="PDF"></td>
+		<td data-title="PNG">✓</td>
+		<td data-title="MOV"></td>
 	</tr>
 </table>
 <small><sup>1</sup> No longer actively developed.</small>
