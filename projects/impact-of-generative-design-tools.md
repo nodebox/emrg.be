@@ -31,4 +31,4 @@ Frederik De Bleser's PhD thesis investigates the impact of procedural graphics a
 <a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>
 
 <h3>Website</h3>
-[www.enigmeta.com][http://www.enigmeta.com/]
+[www.enigmeta.com](http://www.enigmeta.com/)
