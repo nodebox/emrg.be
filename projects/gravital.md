@@ -2,7 +2,7 @@
 layout: project
 section: projects
 title: Gravital
-promotor:
+coordinator:
   - [Lucas Nijs, ../people/lucas-nijs.html]
   - [Walter Daelemans, http://www.clips.ua.ac.be/people/walter-daelemans]
 team:
@@ -27,8 +27,8 @@ images:
 Gravital is funded by IWT (Institute for the Promotion of Innovation by Science and Technology in Flanders) and a consortium of 11 Belgian companies active in the creative industry. It is a collaborative effort by EMRG and <a href="http://www.clips.ua.ac.be">CLiPS</a> (Computational Linguistics & Psycholinguistics Research Center, University of Antwerp). The aim is a NodeBox spin-off that links language to AI and to design. Like NodeBox, you will be able to create visuals using simple Python programming code, but also using natural language (i.e. plain English) or with a node-based interface in which you can reconnect blocks like playing with Lego. <em>How do we decide what a visual shape will look like based on textual content?</em> At the moment a visual element is created its visual properties need to be resolved: is it big or small, dark or light, round or edgy? Even when no restrictive statement has been made ("it is red") the system should be able to choose an appropriate solution.
 
 <h3>Deliverables</h3>
-[NodeBox 3](../software/nodebox-3.html) + 
-[MBSP for Python](http://www.clips.ua.ac.be/pages/MBSP)
+<p><a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a> + 
+   <a href="http://www.clips.ua.ac.be/pages/MBSP" class="tag-software">MBSP for Python</a></p>
 
 <h3>References</h3>
 <p class="cite"><small>De Smedt T., De Bleser F., Nijs L. (2010). NodeBox 2. In: Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), pp. 350-352. ISBN 978-3-86895-103-5</small></p>

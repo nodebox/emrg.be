@@ -85,6 +85,10 @@ header {
 header .container {
     height: 200px;
     background: url(../img/header-background.jpg) no-repeat top left;
+    background-size: 100% 200px;
+    -webkit-background-size: 100% 200px; 
+    -moz-background-size: 100% 200px;
+    -o-background-size: 100% 200px;
     padding-top: 40px;
 }
 
@@ -110,8 +114,7 @@ header small {
 /* Navigation */
 
 nav {
-    height: 45px;
-    background: rgb(20,30,45) url(../img/nav-background.png) repeat-x top left;
+    background: rgb(20,30,45) url(../img/nav-background.jpg) top left;
     margin-bottom: 50px;
     border-top: 1px solid rgb(20,30,45);
     border-bottom: 1px solid rgb(10,20,35);
@@ -123,6 +126,8 @@ nav ul {
 }
 
 nav li {
+    margin: 0;
+    padding: 0;
 }
 
 nav li a {
@@ -171,6 +176,10 @@ nav li a:hover {
 #content {
     min-height: 400px;
     padding-bottom: 150px;
+}
+
+#content .columns {
+    padding-bottom: 5px;
 }
 
 .columns img {
@@ -275,9 +284,14 @@ a.author { /* Lucas Nijs */
 .tag-project,
 .tag-keyword { /* NodeBox, Pyglet */
     text-transform: uppercase;
-    font-size: 80%;
+    font-size: 85%;
     font-weight: bold;
     color: rgb(35,55,100);
+}
+
+.tag-keyword {
+    font-size: 80%;
+    color: #333;
 }
 
 .tag-feature { /* free, cross-platform */
@@ -477,7 +491,7 @@ a.download {
 .project .project-summary { max-width: 600px; }
 .project .project-summary  .author,
 .project .project-summary  .tag-keyword { margin-right: 5px; white-space: nowrap; }
-.project .project-summary label { display: block; clear: left; float: left; text-transform: uppercase; width: 80px; height: 1.5em; letter-spacing: -1px; }
+.project .project-summary label { display: block; clear: left; float: left; text-transform: uppercase; width: 100px; height: 1.5em; letter-spacing: -1px; }
 .project .project-summary div { border-bottom: 1px solid #ccc; margin-bottom: 0.5em; }
 .project h3 { border-bottom: 1px solid #ccc; }
 .project p.cite { line-height: 1em; }

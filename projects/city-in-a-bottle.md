@@ -2,7 +2,7 @@
 layout: project
 section: projects
 title: City in a Bottle
-promotor:
+coordinator:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
 team:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
@@ -32,7 +32,7 @@ City In A Bottle is an interactive project bordering between art, science and ga
 <p class="cite"><small>De Smedt T., Lechat L., Daelemans W. (2011). <cite>Generative art inspired by nature, in NodeBox.</cite> In: Applications of Evolutionary Computation, Part II, LCNS 6625, pp. 264-272, Springer.</small></p>
 
 <h3>Deliverables</h3>
-[NodeBox for OpenGL](../software/nodebox-opengl.html)
+<a href="../software/nodebox-opengl.html" class="tag-software">NodeBox for OpenGL</a>
 
 <h3>Website</h3>
 [www.cityinabottle.org](http://www.cityinabottle.org)

@@ -2,8 +2,7 @@
 layout: project
 section: projects
 title: Conduit
-
-promotor:
+coordinator:
   - [Lucas Nijs, ../people/lucas-nijs.html]
   - [Lieven Menschaert, ../people/lieven-menschaert.html]
 team:

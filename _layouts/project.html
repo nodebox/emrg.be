@@ -12,10 +12,10 @@ layout: base
   <div class="twelve columns project">
 	
     <div class="project-summary">
-    {% if page.promotor %}
+    {% if page.coordinator %}
       <div>
-      <label>Promotor</label>
-      {% for person in page.promotor %}
+      <label>Coordinator</label>
+      {% for person in page.coordinator %}
         {% if person.size == 2 %}
           <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
         {% else %}

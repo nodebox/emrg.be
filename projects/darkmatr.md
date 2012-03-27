@@ -2,7 +2,7 @@
 layout: project
 section: projects
 title: DarkMatr
-promotor:
+coordinator:
   - Tom Heene
 team:
   - Pieter Heremans
