@@ -119,7 +119,7 @@ Click a link in the overview below to view related background information:
 		<td>BE</td>
 		<td>2011</td>
 		<td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
-		<td></td>
+		<td><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://workshops.nodebox.net/2011-vilnius/">NodeBox</a></td>
