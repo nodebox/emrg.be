@@ -12,23 +12,10 @@ layout: base
   <div class="twelve columns project">
 	
     <div class="summary">
-    {% if page.coordinator %}
+    {% if page.authors %}
       <div>
-      <label>Coordinator</label>
-      {% for person in page.coordinator %}
-        {% if person.size == 2 %}
-          <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
-        {% else %}
-          <span class="author">{{ person }}</span>
-        {% endif %}
-      {% endfor %}
-      </div>
-    {% endif %}
-  
-    {% if page.team %}
-      <div>
-      <label>People</label>
-      {% for person in page.team %}
+      <label>Authors</label>
+      {% for person in page.authors %}
         {% if person.size == 2 %}
           <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
         {% else %}
@@ -38,26 +25,17 @@ layout: base
       </div>
     {% endif %}
 
-    {% if page.keywords %}
+    {% if page.license %}
       <div>
-      <label>Keywords</label>
-      {% for keyword in page.keywords %}
-        <span class="tag-keyword">{{ keyword }}</span>
-      {% endfor %}
+        <label>License</label>
+        <span class="license">{{ page.license }}</span>
       </div>
     {% endif %}
 
-    {% if page.budget %}
+    {% if page.documentation %}
       <div>
-        <label>Budget</label>
-        <span class="budget">{{ page.budget }}</span>
-      </div>
-    {% endif %}
-
-    {% if page.period %}
-      <div>
-        <label>Period</label>
-        <time>{{ page.period }}</time>
+        <label>Documentation</label>
+        <a href="{{ page.documentation }}">{{ page.documentation }}</a>
       </div>
     {% endif %}
     </div>

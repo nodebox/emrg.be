@@ -10,6 +10,17 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+code, pre {
+    font: 12px Courier, "Courier New", monospace;
+}
+
+pre {
+    background: rgb(239,246,252);
+    border: 1px solid rgb(220,223,233);
+    border-radius: 5px;
+    padding: 10px;
+}
+
 #content table { border-collapse: collapse; width: 100%; margin: 20px 0; }
 #content table th { font-weight: normal; text-transform: uppercase; }
 #content table th,
@@ -296,6 +307,7 @@ footer small {
 footer .copyright {
     position: absolute;
     bottom: 0;
+    left: 0;
     text-align: center;
     color: rgb(80,90,100);
 }
@@ -330,8 +342,12 @@ a.author { /* Lucas Nijs */
     font-size: 10px;
     font-weight: bold;
     text-transform: uppercase;
-    line-height: 1em;
+    line-height: 10px;
+    vertical-align: center;
 }
+@-moz-document url-prefix() { .tag-feature { 
+    padding: 2px 3px 0px 3px; 
+}}
 
 a.homepage {
     display: inline-block;
@@ -349,7 +365,7 @@ a.download {
 /* Boxes */
 
 .box,
-.projects-summary #content li {
+.projects-overview #content li {
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 5px;
@@ -485,41 +501,42 @@ a.download {
 /* Software */
 
 #software .twelve h2 { color: #3572a4; font-size: 24px; font-weight: normal; margin-bottom: 0.6em; }
-#software p { max-width: 550px; }
+#software p, 
+#software pre { max-width: 575px; }
 
 /* Projects */
 
-.projects-summary h2 { clear: both; padding-top: 15px; }
-.projects-summary #page-title { margin-bottom: 0.5em; padding-bottom: 0.5em; }
-.projects-summary ul { padding: 0; }
-.projects-summary #content li {
+.projects-overview h2 { clear: both; padding-top: 15px; }
+.projects-overview #page-title { margin-bottom: 0.5em; padding-bottom: 0.5em; }
+.projects-overview ul { padding: 0; }
+.projects-overview #content li {
     display: block;
     float: left;
     width: 200px;
     margin: 0 10px 10px 0;
     height: 90px;
 }
-.projects-summary #content li a {
+.projects-overview #content li a {
     display: block;
     color: #3572a4;
     font-size: 17px;
     margin-bottom: 0.25em;
 }
-.projects-summary #content li em {
+.projects-overview #content li em {
     display: block;
     font-style: normal;
     font-size: 85%;
     color: #777;
 }
-.projects-summary #past_projects + ul li {
+.projects-overview #past_projects + ul li {
 }
 
 .project p,
 .project h3,
-.project .project-summary { max-width: 600px; }
-.project .project-summary  .author,
-.project .project-summary  .tag-keyword { margin-right: 5px; white-space: nowrap; }
-.project .project-summary label { display: block; clear: left; float: left; text-transform: uppercase; width: 100px; height: 1.5em; letter-spacing: -1px; }
-.project .project-summary div { border-bottom: 1px solid #ccc; margin-bottom: 0.5em; }
+.summary { max-width: 600px; }
+.summary .author,
+.summary .tag-keyword { margin-right: 5px; white-space: nowrap; }
+.summary label { display: block; clear: left; float: left; text-transform: uppercase; width: 110px; height: 1.5em; letter-spacing: -1px; }
+.summary div { border-bottom: 1px solid #ccc; margin-bottom: 0.5em; }
 .project h3 { border-bottom: 1px solid #ccc; }
 .project p.cite { line-height: 1em; }
