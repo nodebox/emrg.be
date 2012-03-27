@@ -37,3 +37,7 @@ canvas.size = 500, 500
 canvas.draw = draw
 canvas.run()
 </pre>
+
+<h3>Reference</h3>
+
+<p class="cite"><small>De Smedt T., De Bleser F. (2011). <cite>NodeBox for OpenGL version 1.6.</cite> Retrieved March 2012, from: http://cityinabottle.org/nodebox</small></p>

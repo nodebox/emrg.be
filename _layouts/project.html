@@ -28,6 +28,7 @@ layout: base
     {% if page.team %}
       <div>
       <label>People</label>
+      <span class="people">
       {% for person in page.team %}
         {% if person.size == 2 %}
           <a href="{{ person[1] }}" class="author">{{ person[0] }}</a>
@@ -35,6 +36,7 @@ layout: base
           <span class="author">{{ person }}</span>
         {% endif %}
       {% endfor %}
+      </span>
       </div>
     {% endif %}
 

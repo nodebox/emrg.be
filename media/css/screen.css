@@ -541,3 +541,4 @@ a.download {
 .summary div { border-bottom: 1px solid #ccc; margin-bottom: 0.5em; }
 .project h3 { border-bottom: 1px solid #ccc; }
 .project p.cite { line-height: 1em; }
+.project .people { display: block; padding-left: 110px; }
