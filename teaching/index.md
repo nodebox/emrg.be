@@ -26,132 +26,132 @@ Click a link in the overview below to view related background information:
 		<th>Assistant Teachers</th>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Re.html">Experimental Typo</a></td>
-		<td>Sint Lucas, Antwerp</td>
-		<td>BE</td>
-		<td>2002</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Re.html">Experimental Type</a></td>
+		<td data-title="Institute">Sint Lucas, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2002</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Dublin.html">Experimental Typo</a></td>
-		<td>IADT, Dun Laoghaire</td>
-		<td>IE</td>
-		<td>2003</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Dublin.html">Experimental Type</a></td>
+		<td data-title="Institute">IADT, Dun Laoghaire</td>
+		<td data-title="Country">IE</td>
+		<td data-title="Year">2003</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Lahti2003.html">Experimental Typo</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2003</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Lahti2003.html">Experimental Type</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2003</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Rawhide.html">Experimental Typo</a></td>
-		<td>Sint Lucas, Antwerp</td>
-		<td>BE</td>
-		<td>2004</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Rawhide.html">Experimental Type</a></td>
+		<td data-title="Institute">Sint Lucas, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2004</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2004/">Design Automation</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2004</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2004/">Design Automation</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2004</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2005/">NodeBox</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2005</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2005/">NodeBox</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2005</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2007/">NodeBox</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2007</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2007/">NodeBox</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2007</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Helsinki2008.html">NodeBox</a></td>
-		<td>Aalto University, Helsinki</td>
-		<td>FI</td>
-		<td>2008</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Helsinki2008.html">NodeBox</a></td>
+		<td data-title="Institute">Aalto University, Helsinki</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2008</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.designlooksnice.com/Lahti2009.html">Generative Art</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2009</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="Class"><a href="http://www.designlooksnice.com/Lahti2009.html">Generative Art</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2009</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2011-helsinki/">NodeBox</a></td>
-		<td>Aalto University, Helsinki</td>
-		<td>FI</td>
-		<td>2011</td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
-		<td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2011-helsinki/">NodeBox</a></td>
+		<td data-title="Institute">Aalto University, Helsinki</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+		<td data-title="&nbsp;"><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2011-lahti/">NodeBox</a></td>
-		<td>Institute of Design, Lahti</td>
-		<td>FI</td>
-		<td>2011</td>
-		<td><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
-		<td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2011-lahti/">NodeBox</a></td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+		<td data-title="&nbsp;"><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2011-mad-fac/">NodeBox</a></td>
-		<td>MAD Faculty, Genk</td>
-		<td>BE</td>
-		<td>2011</td>
-		<td><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
-		<td><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2011-mad-fac/">NodeBox</a></td>
+		<td data-title="Institute">MAD Faculty, Genk</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers"><a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2011-vilnius/">NodeBox</a></td>
-		<td>Academy of Arts, Vilnius</td>
-		<td>LT</td>
-		<td>2011</td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
-		<td><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2011-vilnius/">NodeBox</a></td>
+		<td data-title="Institute">Academy of Arts, Vilnius</td>
+		<td data-title="Country">LT</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+		<td data-title="&nbsp;"><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.clips.ua.ac.be/pages/pattern">Pattern</a></td>
-		<td>KASKA, Antwerp</td>
-		<td>BE</td>
-		<td>2011</td>
-		<td>T. Crombez, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
-		<td></td>
+		<td data-title="Class"><a href="http://www.clips.ua.ac.be/pages/pattern">Pattern</a></td>
+		<td data-title="Institute">KASKA, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers">Crombez T., <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2011-torino/">NodeBox + Pattern</a></td>
-		<td>Better Nouveau, Torino</td>
-		<td>IT</td>
-		<td>2011</td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
-		<td></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2011-torino/">NodeBox + Pattern</a></td>
+		<td data-title="Institute">Better Nouveau, Torino</td>
+		<td data-title="Country">IT</td>
+		<td data-title="Year">2011</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a></td>
+		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td><a href="http://workshops.nodebox.net/2012-antwerp/">NodeBox</a></td>
-		<td>Sint Lucas, Antwerp</td>
-		<td>BE</td>
-		<td>2012</td>
-		<td><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
-		<td></td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2012-antwerp/">NodeBox</a></td>
+		<td data-title="Institute">Sint Lucas, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2012</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"></td>
 	</tr>
 </table>
 

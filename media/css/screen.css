@@ -31,7 +31,7 @@ pre {
     text-align: left; 
     line-height: 1.5em;
     min-height: 1.5em;
-    padding: 5px !important; 
+    padding: 4px 5px 3px 5px !important; 
     vertical-align: top;
 }
 
@@ -47,7 +47,7 @@ pre {
     table, thead, tbody, tfoot, th, td, tr { display: block; }
     th { display: none; }
     th { margin-top: -1px; }
-    td { margin-top: -1px;  padding-left: 50%;  }
+    td { margin-top: -1px;}
     td:before { 
         content: attr(data-title); 
         display: block; 
@@ -500,6 +500,7 @@ a.download {
 
 /* Software */
 
+#software .twelve h2 a { color: #3572a4; }
 #software .twelve h2 { color: #3572a4; font-size: 24px; font-weight: normal; margin-bottom: 0.6em; }
 #software p, 
 #software pre { max-width: 575px; }
