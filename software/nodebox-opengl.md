@@ -4,7 +4,7 @@ section: software
 title: NodeBox for OpenGL
 authors:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
-  - [Frederik De Bleser, ../people/frederik-de-bleser]
+  - [Frederik De Bleser, ../people/frederik-de-bleser.html]
 license:
   - BSD
 documentation:
