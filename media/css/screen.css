@@ -8,6 +8,7 @@ body {
     font: 13px/18px Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
     -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
 }
 
 code, pre {
@@ -232,8 +233,9 @@ nav li a:hover {
 
 #page-title {
     font-size: 225%;
+    line-height: 1em;
     margin-bottom: 0.75em;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
 }
 #page-title h2 {
@@ -375,10 +377,6 @@ a.download {
     border: 1px solid rgb(214,220,225);
 }
 
-.box .columns {
-    padding: 20px 0 0 0;
-}
-
 .box h2 {
     font-size: 11px;
     font-weight: normal;
@@ -400,40 +398,22 @@ a.download {
     color: #000;
 }
 
-.box article {
-    padding: 0 0 5px 0;
-}
-
-.news.box {
-    background: rgb(35,45,55);
-    padding: 0;
-}
+.news.box { background: rgb(35,45,55); padding: 0; margin: 0; }
 .news.box, 
 .news.box a { color: rgb(140,150,160); }
 .news.box h2 { font-weight: normal; }
 .news.box h3 { font-weight: normal; text-transform: none; }
-.news.box article {
-    margin: 2px;
-    padding: 10px;
-    background: url(../img/news-background.jpg) repeat-x;
-}
-.news.box time {
-    display: block;
-    font-size: 80%;
-    margin-bottom: 10px;
-}
+.news.box article { background: url(../img/news-background.jpg) repeat-x; margin: 2px; padding: 10px; }
+.news.box time { display: block; font-size: 80%; margin-bottom: 10px; }
 
-.software.box {
-    width: 696px !important;
-    margin-bottom: 25px;
-    padding: 0 0 42px 0;
-}
-.software.box h2 { color: #333; background: rgb(214,220,230); }
-.software.box small { color: #0b1924; }
+.software.box { width: 100%; margin-bottom: 25px; padding: 0; }
+.software.box .columns { margin: 0; padding: 0; }
+.software.box a { display: block; padding: 10px; }
 .software.box a:hover { color: #3572a4; }
+.software.box h2 { color: #333; background: rgb(214,220,230); }
+.software.box small { color: #0b1924; font-size: 80%; padding: 0 10px 10px 10px; }
 .software.box img {
     background: #e5eef3;
-    padding: 2px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -443,7 +423,6 @@ a.download {
 }
 .software.box h3 {
     height: 24px;
-    margin: 0 0 10px 0;
     padding-left: 30px;
     background: url(../img/download.png) no-repeat;
     color: #3572a4;
@@ -486,13 +465,9 @@ a.download {
 
 /* News */
 #post { margin-top: 10px; }
-#post p { max-width: 550px; }
-#post p:first-child { 
-    background: url(../img/news.png) no-repeat; padding: 2px 0 0 33px;
-    font-weight: bold; 
-    font-size: 110%; 
-    line-height: 22px; 
-}
+#post p:first-child { background: url(../img/news.png) no-repeat; }
+#post p { max-width: 450px; padding: 2px 0 0 33px; margin-bottom: 0.2em; }
+#post p:last-child { margin-bottom: 1em; }
 
 /* People */
 
