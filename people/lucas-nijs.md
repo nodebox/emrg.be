@@ -4,7 +4,7 @@ section: people
 title: Lucas Nijs
 email: lucasnijs@gmail.com
 images:
-   - "people/lucasnijs.png"
+   - "people/lucas.jpg"
 ---
 
 Lucas Nijs has been a freelance graphic designer since 1981. He was employed at Apple Computer Europe from 1989-1994. He has been teaching new media, graphic design and experimental typography at the Sint Lucas School of Arts (Antwerp, BE), the Plantin Genootschap (BE, until 2005) and the Lahti Institute of Design (FI) since 1983. In 2004, he founded the Experimental Media Research Group. He has coordinated research funded by the Institute for the Promotion of Innovation by Science and Technology in Flanders, and co-promotes PhD theses of Tom De Smedt and Frederik De Bleser. For a brief overview of workshops taught by Lucas, refer to the <a href="../activities/workshops.html">workshops</a> section. 
