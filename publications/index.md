@@ -8,8 +8,8 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	de Fortuny E. J.,
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	Martens, D., 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(in press). 
