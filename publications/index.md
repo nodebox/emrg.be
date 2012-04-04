@@ -9,6 +9,17 @@ title: Publications
 
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	de Fortuny E. J.,
+	Martens, D., 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(in press). 
+	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
+	In: Expert Systems with Applications. 
+	<a href="http://www.clips.ua.ac.be/media/coverage.pdf" class="attachment">PDF</a>
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://ludivinelechat.be" class="author">Lechat L.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2011). 
