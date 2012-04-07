@@ -24,7 +24,7 @@ title: Publications
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2011). 
 	<cite>Generative art inspired by nature, in NodeBox.</cite> 
-	In: Applications of Evolutionary Computation, Part II, LCNS 6625, pp. 264-272, Springer. 
+	In: Applications of Evolutionary Computation, Part II, LNCS 6625, pp. 264-272, Springer. 
 	<a href="http://www.clips.ua.ac.be/sites/default/files/desmedt-generative-art.pdf" class="attachment">PDF</a>
 </div>
 
