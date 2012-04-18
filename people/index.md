@@ -42,7 +42,7 @@ title: People
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.todo.to.it">ToDo</a><br>interaction &amp; media design studio
+	<a target="_blank" href="http://www.clips.ua.ac.be">CLiPS</a><br>computational psycholinguistics research center
 </div>
 
 <div class="box">
@@ -52,10 +52,10 @@ title: People
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.clips.ua.ac.be">CLiPS</a><br>computational psycholinguistics research center
+	<a target="_blank" href="http://www.imec.be">IMEC</a><br>interuniversity microelectronics center
 </div>
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.imec.be">IMEC</a><br>interuniversity microelectronics center
+	<a target="_blank" href="http://www.todo.to.it">ToDo</a><br>interaction &amp; media design studio
 </div>

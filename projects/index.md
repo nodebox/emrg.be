@@ -4,7 +4,7 @@ section: projects
 body: projects-overview
 title: Research Projects
 ---
-**EMRG** research activities include individual PhD dissertations funded by the Sint Lucas School of Arts and the University of Antwerp, cutting-edge art &amp; science projects with competively acquired funding, and shorter projects involving external partners and companies.
+**EMRG** research activities include individual PhD dissertations funded by the Sint Lucas Antwerpen School of Arts and the University of Antwerp, cutting-edge art &amp; science projects with competively acquired funding, and shorter projects involving external partners and companies.
 
 Current projects
 ----------------

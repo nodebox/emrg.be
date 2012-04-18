@@ -5,7 +5,7 @@ title: Contact
 ---
 <address>
   Experimental Media Research Group<br>
-  Sint Lucas School of Arts<br>
+  Sint Lucas Antwerpen School of Arts<br>
   Sint-Jozefstraat 35<br>
   Room C.004<br>
   B-2018 Antwerpen<br>

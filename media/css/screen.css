@@ -104,17 +104,26 @@ header, header a {
     color: #fff;
 }
 
-header h1 {
+header .logo {
     float: left;
+    clear: both;
     margin: 0 10px 0 0;
 }
 
-header small {
-    display: block;
-    margin: 30px 0 0 0;
+header h1 {
+    margin: 12px 0 0 0;
     font-size: 50px;
     font-weight: bold;
     letter-spacing: -4px;
+    line-height: 50px;
+}
+
+header h2 {
+    margin: 0 0 0 5px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1em;
+    letter-spacing: -1px;
 }
 
 /* Navigation */
