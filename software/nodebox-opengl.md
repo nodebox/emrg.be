@@ -40,4 +40,4 @@ canvas.run()
 
 <h3>Reference</h3>
 
-<p class="cite"><small>De Smedt T., De Bleser F. (2011). <cite>NodeBox for OpenGL version 1.7.</cite> Retrieved May 2012, from: http://cityinabottle.org/nodebox</small></p>
+<p class="cite"><small>De Smedt T., De Bleser F. (2011). <cite>NodeBox for OpenGL version 1.7.</cite><br />Retrieved May 2012, from: http://cityinabottle.org/nodebox</small></p>
