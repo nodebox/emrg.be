@@ -24,7 +24,7 @@ NodeBox for OpenGL does not have a GUI. Users can work with an external editor o
 <h3>Example</h3>
 This example demonstrates a simple NOGL script. It assumes NOGL, Pyglet and Python are installed on your system. It imports the <code>nodebox.graphics</code> module with the standard set of drawing commands. It defines a <code>draw()</code> function and attaches it to the canvas, so that it will be drawn each animation frame. It opens the main application window with <code>canvas.run()</code>.
 
-<pre class="python">
+<pre class="brush:python;">
 from nodebox.graphics import *
 
 def draw(canvas):
@@ -40,4 +40,4 @@ canvas.run()
 
 <h3>Reference</h3>
 
-<p class="cite"><small>De Smedt T., De Bleser F. (2011). <cite>NodeBox for OpenGL version 1.6.</cite> Retrieved March 2012, from: http://cityinabottle.org/nodebox</small></p>
+<p class="cite"><small>De Smedt T., De Bleser F. (2011). <cite>NodeBox for OpenGL version 1.7.</cite> Retrieved May 2012, from: http://cityinabottle.org/nodebox</small></p>

@@ -24,14 +24,6 @@ address { margin: 0 0 1em 0; }
 img { vertical-align: middle; }
 hr { height: 0px !important; border: 0; border-bottom: 1px solid #ccc; }
 
-code, pre { font: 12px Courier, "Courier New", monospace; }
-pre {
-    background: rgb(239,246,252);
-    border: 1px solid rgb(220,223,233);
-    border-radius: 5px;
-    padding: 10px;
-}
-
 #content table { border-collapse: collapse; width: 100%; margin: 20px 0; }
 #content table th { font-weight: normal; text-transform: uppercase; }
 #content table th,
@@ -458,7 +450,8 @@ a.download {
 #software .twelve h2 a { color: #3572a4; }
 #software .twelve h2 { color: #3572a4; font-size: 24px; font-weight: normal; margin-bottom: 0.6em; }
 #software p, 
-#software pre { max-width: 575px; }
+#software pre,
+#software .syntaxhighlighter { max-width: 575px; }
 
 /* Projects */
 
@@ -501,3 +494,44 @@ a.download {
 .project h3 { border-bottom: 1px solid #ccc; }
 .project p.cite { line-height: 1em; }
 .project .people { display: block; padding-left: 110px; }
+
+/* Syntax highligher */
+
+code, pre { font: 12px Courier, "Courier New", monospace; }
+
+.syntaxhighlighter, pre {
+    background: rgb(239,246,252);
+    border: 1px solid rgb(220,223,233);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#content .syntaxhighlighter table { width: auto; margin: 0; }
+#content .syntaxhighlighter table td { border: 0; padding: 0 5px 0 0 !important; line-height: 1.3em; }
+.syntaxhighlighter .toolbar { display: none; }
+.syntaxhighlighter .gutter { display: none; }
+
+/* Python syntax */
+
+.syntaxhighlighter .python.keyword {
+    font-weight: bold;
+}
+.syntaxhighlighter .python.name {
+
+}
+.syntaxhighlighter .python.string {
+    color: grey; 
+}
+.syntaxhighlighter .python.comments1 { 
+    color: grey; 
+}
+.syntaxhighlighter .python.comments2 { 
+    color: grey; 
+}
+.syntaxhighlighter .python.functions,
+.syntaxhighlighter .python.color1 { 
+    
+}
+.syntaxhighlighter .python.value { 
+    
+}

@@ -25,7 +25,7 @@ NodeBox 1 has been stable for a long time and is now in "maintenace mode": we on
 
 This example demonstrates a simple NodeBox script. It draws a number of ellipses to the canvas, in random shades of transparent red, with random size and position.
 
-<pre class="python">
+<pre class="brush:python;">
 for i in range(100):
     x = random(WIDTH)
     y = random(HEIGHT)
