@@ -4,6 +4,7 @@ section: software
 title: NodeBox 1
 authors:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
+  - [Tom De Smedt, ../people/tom-de-smedt.html]
 license:
   - MIT
 documentation:
