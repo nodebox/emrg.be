@@ -8,11 +8,19 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(in press). 
+	<cite>"Vreselijk mooi!" (terribly beautiful): A Subjectivity Lexicon for Dutch Adjectives.</cite> 
+	In: Proceedings of the 8th Language Resources and Evaluation Conference (LREC 2012). 
+</div>
+
+<div class="publication box">
 	de Fortuny E. J.,
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	Martens, D., 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(in press). 
+	(2012). 
 	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
 	In: Expert Systems with Applications. 
 	<a href="http://www.clips.ua.ac.be/media/coverage.pdf" class="attachment">PDF</a>
