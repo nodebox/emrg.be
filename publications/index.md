@@ -10,9 +10,10 @@ title: Publications
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(in press). 
+	(2012). 
 	<cite>"Vreselijk mooi!" (terribly beautiful): A Subjectivity Lexicon for Dutch Adjectives.</cite> 
-	In: Proceedings of the 8th Language Resources and Evaluation Conference (LREC 2012). 
+	In: Proceedings of the 8th Language Resources and Evaluation Conference (LREC'12), 3568–3572.
+	<a href="http://www.clips.ua.ac.be/sites/default/files/desmedt-subjectivity.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -32,7 +33,7 @@ title: Publications
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2011). 
 	<cite>Generative art inspired by nature, in NodeBox.</cite> 
-	In: Applications of Evolutionary Computation, Part II, LNCS 6625, pp. 264-272, Springer. 
+	In: Applications of Evolutionary Computation, Part II, LNCS 6625, 264–272, Springer. 
 	<a href="http://www.clips.ua.ac.be/sites/default/files/desmedt-generative-art.pdf" class="attachment">PDF</a>
 </div>
 
@@ -42,7 +43,7 @@ title: Publications
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> 
 	(2010). 
 	<cite>NodeBox 2.</cite> 
-	In: Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), pp. 350-352. ISBN 978-3-86895-103-5
+	In: Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), 350–352. ISBN 978-3-86895-103-5
 </div>
 
 <div class="publication box">
