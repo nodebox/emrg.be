@@ -17,9 +17,9 @@ title: Publications
 </div>
 
 <div class="publication box">
-	de Fortuny E. J.,
+	Junqu&eacute; de Fortuny J.,
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	Martens, D., 
+	Martens D., 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2012). 
 	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
