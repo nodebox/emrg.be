@@ -10,7 +10,7 @@ Current projects
 ----------------
 
 * [Conduit ](conduit.html) Expressive ways for visualizing external data. _2012-2014_
-* [Generative Design Tools](impact-of-generative-design-tools.html) How do new procedural tools influence designers? _2012-1016_
+* [Generative Design Tools](impact-of-generative-design-tools.html) How do new procedural tools influence designers? _2012-2016_
 * [Valence](valence.html) Affective visualization using brainwave monitoring. _2011 • IMEC_
 * [City in a Bottle](city-in-a-bottle.html) A forest in a procedural game environment. _2008-2012 • VAF_
 
