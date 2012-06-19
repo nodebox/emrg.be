@@ -28,7 +28,7 @@ layout: base
 
 <aside class="four columns news box">
   <h2>News</h2>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
   <article>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <time>{{ post.date | date_to_string }}</time>
