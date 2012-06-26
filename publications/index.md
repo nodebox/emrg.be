@@ -26,7 +26,7 @@ title: Publications
 </div>
 
 <div class="publication box">
-	Junqu&eacute; de Fortuny J.,
+	Junqu&eacute; de Fortuny E.,
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	Martens D., 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
