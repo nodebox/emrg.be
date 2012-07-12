@@ -373,7 +373,7 @@ a.download {
 .news.box a { color: rgb(140,150,160); }
 .news.box h2 { font-weight: normal; }
 .news.box h3 { font-weight: normal; text-transform: none; }
-.news.box article { background: url(../img/news-background.jpg) repeat-x; margin: 2px; padding: 10px; }
+.news.box article { background: url(../img/news-background.jpg) repeat-x; margin: 2px; padding: 7px; }
 .news.box time { display: block; font-size: 80%; margin-bottom: 10px; }
 
 .software.box { width: 100%; margin-bottom: 25px; padding: 0; }
