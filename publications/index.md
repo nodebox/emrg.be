@@ -10,10 +10,11 @@ title: Publications
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(in press). 
+	(2012). 
 	<cite>Pattern for Python.</cite> 
 	In: Journal of Machine Learning Research, 13: 2063–2067.
 	<code>IF 2.974</code>
+	<a href="http://jmlr.csail.mit.edu/papers/volume13/desmedt12a/desmedt12a.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -32,7 +33,7 @@ title: Publications
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2012). 
 	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
-	In: Expert Systems with Applications. 
+	In: Expert Systems with Applications, 39(14): 11616–11622. 
 	<code>IF 1.926</code>
 	<a href="http://www.clips.ua.ac.be/media/coverage.pdf" class="attachment">PDF</a>
 </div>
