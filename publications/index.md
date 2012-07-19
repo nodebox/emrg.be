@@ -9,6 +9,14 @@ title: Publications
 
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
+	(in press). 
+	<cite>VALENCE: Affective visualisation using EEG.</cite> 
+	In: Digital Creativity.
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2012). 
 	<cite>Pattern for Python.</cite> 
@@ -35,7 +43,7 @@ title: Publications
 	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
 	In: Expert Systems with Applications, 39(14): 11616–11622. 
 	<code>IF 1.926</code>
-	<a href="http://www.clips.ua.ac.be/media/coverage.pdf" class="attachment">PDF</a>
+	<a href="http://www.clips.ua.ac.be/sites/default/files/coverage.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
