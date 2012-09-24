@@ -3,7 +3,7 @@ layout: homepage
 section: home
 title: Experimental Media Research Group
 ---
-**EMRG** is a cross-domain research group associated with the [Sint Lucas School of arts](http://www.sintlucasantwerpen.be/) of the [Karel de Grote-Hogeschool](http://www.kdg.be) (Antwerp, Belgium). EMRG has been active since 2004.
+**EMRG** is a cross-domain research group associated with the [St Lucas University College of Art and Design](http://www.sintlucasantwerpen.be/) of the [Karel de Grote-Hogeschool](http://www.kdg.be) (Antwerp, Belgium). EMRG has been active since 2004.
 
 **EMRG** specializes in computer graphics applications and cutting-edge research in the domain of computer graphics, user experience, creativity, but also in artificial intelligence and natural language processing. Most of the EMRG research is based on competitively acquired funding, including funding agencies such as the Institute for the Promotion of Innovation by Science and Technology in Flanders, the Interdisciplinary Institute for Broadband Technology, and private companies.
 
