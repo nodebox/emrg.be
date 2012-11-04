@@ -8,7 +8,7 @@ authors:
 license:
   - GPL
 documentation:
-  - http://alpha.nodebox.net
+  - http://nodebox.net/node/
 images:
   - nodebox-3/nodebox-screenshot.png
   - nodebox-3/nodebox-nodes.png
