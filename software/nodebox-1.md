@@ -8,7 +8,7 @@ authors:
 license:
   - MIT
 documentation:
-  - http://nodebox.net
+  - http://nodebox.net/code/index.php/Reference
 images:
   - [nodebox-1/screenshot1.png, NodeBox - recursive type]
   - [nodebox-1/screenshot2.jpg, NodeBox - paths with dropshadows]
