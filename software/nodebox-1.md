@@ -39,4 +39,4 @@ for i in range(100):
 <h3>Reference</h3>
 
 <p class="cite"><small>De Bleser F., De Smedt T., Nijs L. (2004). <cite>NodeBox version 1.9.5 for Mac OS X.</cite><br /> 
-Retrieved March 2012, from: http://nodebox.net</small></p>
+Retrieved March 2012, from: http://nodebox.net/code/</small></p>

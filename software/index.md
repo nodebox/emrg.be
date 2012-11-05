@@ -13,7 +13,7 @@ images:
 NodeBox 3 (2012) is a free, cross-platform software application for creating generative graphics using an easy-to-use node-based UI. Next to writing Python code, users can creatively connect visual building blocks (or <em>nodes</em>) together into networks, creating visually rich compositions. 
 <span class="tag-feature">free</span> <span class="tag-feature">cross-platform</span> <span class="tag-feature">GUI</span>
 [Read more &raquo;][nodebox3]
-<p><a class="homepage" href="http://alpha.nodebox.net/">http://alpha.nodebox.net</a></p><br>
+<p><a class="homepage" href="http://nodebox.net/node/">http://nodebox.net/node/</a></p><br>
 
 <h2>NodeBox 2</h2>
 
@@ -25,7 +25,7 @@ NodeBox 2 (2008) started the conversion from code to a node-based UI. Experience
 NodeBox 1 (2004, the "classic") is a free software application for Mac OS X that generates 2D graphics (static, animated or interactive) using Python programming code. It was originally based on <a href="http://www.drawbot.com" class="tag-software">DrawBot</a>, and has since become a serious playground for research in design automation and AI, with many libraries. NodeBox 1 is in "maintenace mode": we only release new versions to fix critical issues. 
 <span class="tag-feature">free</span>
 [Read more &raquo;][nodebox1]
-<p><a class="homepage" href="http://www.nodebox.net">http://www.nodebox.net</a></p><br>
+<p><a class="homepage" href="http://nodebox.net/code/">http://nodebox.net/code/</a></p><br>
 
 <h2><a href="nodebox-opengl.html">NodeBox for OpenGL</a></h2>
 
