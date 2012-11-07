@@ -8,7 +8,7 @@ end
 
 desc 'Deploy to the live server'
 task :deploy => [:rebuild] do
-  sh 'rsync -rtzO --delete _site/ emrg.be:/www/emrg.be/public_html/'
+  sh 'rsync -rtzO --delete _site/ emrg@emrg.be:/www/emrg.be/public_html/'
 end
 
 desc 'Run Jekyll in server mode'
