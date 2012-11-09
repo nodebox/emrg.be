@@ -163,4 +163,5 @@ Click a link in the overview below to view related background information:
 	</tr>
 </table>
 
-People or organizations interested in organizing a workshop can <a href="../contact/">contact us</a>.  
+
+People or organizations interested in organizing a workshop can <a href="../contact/">contact us</a>.
