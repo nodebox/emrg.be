@@ -153,6 +153,14 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
+	<tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2012-the-hague/">NodeBox 3</a></td>
+		<td data-title="Institute">KABK, The Hague</td>
+		<td data-title="Country">NL</td>
+		<td data-title="Year">2012</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+		<td data-title="&nbsp;"><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
+	</tr>
 </table>
 
 People or organizations interested in organizing a workshop can <a href="../contact/">contact us</a>.  
