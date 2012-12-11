@@ -7,4 +7,4 @@ Tom De Smedt will host a [Pattern](http://www.clips.ua.ac.be/pages/pattern) work
 
 This is a hands-on workshop. If you wish to attend, please come with Python and Pattern installed on your machine.
 
-http://fabelier.org/sentiment-analysis-for-french-by-tom-de-smedt/
+<http://fabelier.org/sentiment-analysis-for-french-by-tom-de-smedt/>
