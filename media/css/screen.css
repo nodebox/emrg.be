@@ -435,9 +435,10 @@ a.download {
 
 /* News */
 #post { margin-top: 10px; }
-#post p:first-child { background: url(../img/news.png) no-repeat; }
+#post p:first-child { background: url(../img/news.png) no-repeat; min-height: 25px; }
 #post p { max-width: 450px; padding: 2px 0 0 33px; margin-bottom: 0.2em; }
 #post p:last-child { margin-bottom: 1em; }
+#post ul { margin-left: 10px; }
 
 /* People */
 
