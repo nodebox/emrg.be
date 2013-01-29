@@ -9,6 +9,14 @@ title: Publications
 
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	(2013). 
+	<cite>Modeling Creativity: Case Studies in Python.</cite> 
+	University Press Antwerp. ISBN 978-90-5718-260-0.
+	<a href="http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf" class="attachment">PDF</a>
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
 	(2012). 
 	<cite>VALENCE: Affective visualisation using EEG.</cite> 

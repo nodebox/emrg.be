@@ -401,6 +401,7 @@ a.download {
     white-space: nowrap;
 }
 
+.publication.box { max-width: 575px; }
 .publication.box a.attachment:hover { text-decoration: none; }
 .publication.box a.attachment {
     display: block;
