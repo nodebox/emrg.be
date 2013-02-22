@@ -161,6 +161,38 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
 		<td data-title="&nbsp;"><a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 	</tr>
+	<tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-antwerp/">NodeBox 3</a></td>
+		<td data-title="Institute">Artesis/KdG, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"> <a href="http://www.densitydesign.org/person/michele-mauri/" class="author">Mauri M.</a>, <a href="http://www.densitydesign.org/person/matteo-azzi/" class="author">Azzi M.</a> </td>
+	</tr>
+	<tr>
+		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Institute">Institute of Design, Lahti</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
+	<tr>
+		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Institute">Aalto University, Helsinki</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
+	<tr>
+		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Institute">Academy of Arts, Vilnius</td>
+		<td data-title="Country">LT</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
 </table>
 
 
