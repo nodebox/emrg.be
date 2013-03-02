@@ -170,7 +170,7 @@ Click a link in the overview below to view related background information:
 		<td data-title="&nbsp;"> <a href="http://www.densitydesign.org/person/michele-mauri/" class="author">Mauri M.</a>, <a href="http://www.densitydesign.org/person/matteo-azzi/" class="author">Azzi M.</a> </td>
 	</tr>
 	<tr>
-		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-lahti/">NodeBox 3</a></td>
 		<td data-title="Institute">Institute of Design, Lahti</td>
 		<td data-title="Country">FI</td>
 		<td data-title="Year">2013</td>
