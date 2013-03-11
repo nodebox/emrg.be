@@ -178,7 +178,7 @@ Click a link in the overview below to view related background information:
 		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-helsinki/">NodeBox 3</a></td>
 		<td data-title="Institute">Aalto University, Helsinki</td>
 		<td data-title="Country">FI</td>
 		<td data-title="Year">2013</td>
