@@ -193,6 +193,22 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
+	<tr>
+		<td data-title="Class">Pattern/NodeBox 3</td>
+		<td data-title="Institute">Bryn Mawr College, Philadelphia</td>
+		<td data-title="Country">US</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/tom-de-smedt.html.html" class="author">De Smedt T.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
+	<tr>
+		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Institute">Université du Québec, Montréal</td>
+		<td data-title="Country">CA</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="http://http://www.densitydesign.org/person/donato-ricci/" class="author">Ricci D.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>	
 </table>
 
 
