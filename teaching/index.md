@@ -194,11 +194,11 @@ Click a link in the overview below to view related background information:
 		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td data-title="Class">Pattern/NodeBox 3</td>
+		<td data-title="Class">Pattern + NodeBox</td>
 		<td data-title="Institute">Bryn Mawr College, Philadelphia</td>
 		<td data-title="Country">US</td>
 		<td data-title="Year">2013</td>
-		<td data-title="Teachers"><a href="../people/tom-de-smedt.html.html" class="author">De Smedt T.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="Teachers"><a href="../people/tom-de-smedt.html.html" class="author">De Smedt T.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>

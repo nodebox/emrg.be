@@ -15,7 +15,7 @@ title: People
 
 <div class="box">
 	<img src="/media/img/avatar.png" /> 
-	<a href="tom-de-smedt.html">Tom De Smedt</a><br>researcher &amp; PhD student, works on 
+	<a href="tom-de-smedt.html">Tom De Smedt</a><br>postdoctoral researcher, works on 
 	<a href="http://www.clips.ua.ac.be/pages/pattern" class="tag-software">Pattern</a>, 
 	<a href="../software/nodebox-opengl.html" class="tag-software">NOGL</a>.
 </div>

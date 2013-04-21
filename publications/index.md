@@ -8,6 +8,15 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
+	<a href="http://www.clips.ua.ac.be/people/ben-verhoeven" class="author">Verhoeven B.</a> 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
+	(in press). 
+	<cite>Ensemble Methods for Personality Recognition.</cite> 
+	Proceedings of the Workshop on Computational Personality Recognition (Shared Task).
+</div>
+
+<div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	(2013). 
 	<cite>Modeling Creativity: Case Studies in Python.</cite> 

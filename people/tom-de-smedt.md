@@ -6,7 +6,7 @@ email: tom@organisms.be
 images: 
   - "people/tom.jpg"
 ---
-Tom De Smedt is an artist and a software engineer. He is affiliated with the Computational Linguistics Group (CLiPS, University of Antwerp, BE) as PhD student, co-founder of the Experimental Media Research Group, and invited artist at IMEC (Interuniversity Microelectronics Centre, Leuven, BE).
+Tom De Smedt is an artist and a software engineer. He is affiliated with the Computational Linguistics Group (CLiPS, University of Antwerp, BE) as postdoctoral researcher, co-founder of the Experimental Media Research Group, and invited artist at IMEC (Interuniversity Microelectronics Centre, Leuven, BE).
 
 <h3>Software projects</h3>
 
