@@ -186,7 +186,7 @@ Click a link in the overview below to view related background information:
 		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-vilnius/">NodeBox 3</a></td>
 		<td data-title="Institute">Academy of Arts, Vilnius</td>
 		<td data-title="Country">LT</td>
 		<td data-title="Year">2013</td>
@@ -202,13 +202,21 @@ Click a link in the overview below to view related background information:
 		<td data-title="&nbsp;"></td>
 	</tr>
 	<tr>
-		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-montreal/">NodeBox 3</a></td>
 		<td data-title="Institute">Université du Québec, Montréal</td>
 		<td data-title="Country">CA</td>
 		<td data-title="Year">2013</td>
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="http://http://www.densitydesign.org/person/donato-ricci/" class="author">Ricci D.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>	
+	<tr>
+		<td data-title="Class">NodeBox 3</td>
+		<td data-title="Institute">Polish Japanese Institute, Warsaw</td>
+		<td data-title="Country">PL</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
 </table>
 
 
