@@ -8,12 +8,25 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
-	<a href="http://www.clips.ua.ac.be/people/ben-verhoeven" class="author">Verhoeven B.</a> 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	<a href="http://www.clips.ua.ac.be/people/ben-verhoeven" class="author">Verhoeven B.</a>, 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a>, 
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
-	(in press). 
+	(2013). 
 	<cite>Ensemble Methods for Personality Recognition.</cite> 
 	Proceedings of the Workshop on Computational Personality Recognition (Shared Task).
+	<a href="http://www.clips.ua.ac.be/sites/default/files/verhoevenetal2013.pdf"  class="attachment">PDF</a>
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
+	<a href="http://www.clips.ua.ac.be/people/vincent-van-asch" class="author">Van Asch V.</a>, 
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(2013). 
+	<cite>Gravital: natural language processing for computer graphics.</cite> 
+	Veale T., Feyaerts K. &amp; Forceville C. (eds.) Creativity and the Agile Mind: A Multi-Disciplinary Study of a Multi-Faceted Phenomenon, 81–97. 
+	Berlin: Mouton.
 </div>
 
 <div class="publication box">
@@ -110,6 +123,14 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication exhibition box">
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
+	(2013). 
+	<cite>Valence: affective visualization using EEG.</cite> 
+	Presented at World Maker Faire, New York Hall of Science, NY, USA. 
+</div>
+
+<div class="publication exhibition box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://ludivinelechat.be" class="author">Lechat L.</a>, 
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
@@ -147,7 +168,6 @@ title: Publications
 	(2010). 
 	<cite>NodeBox + DarkMatr + Creatures.</cite> 
 	Presented at E-Culture Fair 2010, Dortmund, Germany. 
-	<a href="http://organisms.be/index.php/ecf" class="attachment">IMG</a>
 </div>
 
 <div class="publication exhibition box">
@@ -193,6 +213,12 @@ title: Publications
 <h2>Conference lectures</h2>
 <!-- Conference lectures and invited symposia talks. -->
 <!-- =================================================================================================== -->
+
+<div class="publication talk box">
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> (2013). 
+	<cite>Experimental Media Research Group</cite>. 
+	Presented at the Integrated 2013 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
+</div>
 
 <div class="publication talk box">
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2011). 
