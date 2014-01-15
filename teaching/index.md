@@ -217,6 +217,14 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
+	<tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2013-valence/">NodeBox 3</a></td>
+		<td data-title="Institute">Valence, France</td>
+		<td data-title="Country">FR</td>
+		<td data-title="Year">2013</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr
 </table>
 
 
