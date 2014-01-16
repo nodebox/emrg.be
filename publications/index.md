@@ -215,9 +215,21 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication talk box">
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
+	<cite>EMRG and the next generation of NodeBox: MAAK</cite>. 
+	Presented at the Computational Creativity Autumn Class, Porvoo, Finland.
+</div>
+
+<div class="publication talk box">
 	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> (2013). 
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Integrated 2013 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
+</div>
+
+<div class="publication talk box">
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
+	<cite>Experimental Media Research Group</cite>. 
+	Presented at the Motyf2013 conference, Museum of Modern Art, Warsaw, Poland.
 </div>
 
 <div class="publication talk box">
