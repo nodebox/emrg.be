@@ -224,7 +224,7 @@ Click a link in the overview below to view related background information:
 		<td data-title="Year">2013</td>
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 		<td data-title="&nbsp;"></td>
-	</tr
+	</tr>
 </table>
 
 
