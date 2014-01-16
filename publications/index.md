@@ -136,6 +136,16 @@ title: Publications
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
 	(2011). 
 	<cite>Valence: affective visualization using EEG.</cite> 
+	Presented at Interieur 2012. 20–28 October 2012, Buda, Kortrijk, Belgium. 
+	<a href="http://organisms.be/index.php/valence" class="attachment">IMG</a>
+</div>
+
+<div class="publication exhibition box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="http://ludivinelechat.be" class="author">Lechat L.</a>, 
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
+	(2011). 
+	<cite>Valence: affective visualization using EEG.</cite> 
 	Presented at Creativity World Forum 2011, Hasselt, Belgium. 
 	<a href="http://organisms.be/index.php/valence" class="attachment">IMG</a>
 </div>
@@ -227,9 +237,29 @@ title: Publications
 </div>
 
 <div class="publication talk box">
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> (2013). 
+	<cite>Experimental Media Research Group</cite>. 
+	Presented at Design International Week, Montréal, Canada.
+</div>
+
+<div class="publication talk box">
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
+	(2013). 
+	<cite>Valence: affective visualization using EEG.</cite> 
+	Presented at World Maker Faire, New York Hall of Science, NY, USA.
+</div>
+
+<div class="publication talk box">
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Motyf2013 conference, Museum of Modern Art, Warsaw, Poland.
+</div>
+
+<div class="publication talk box">
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> (2013). 
+	<cite>Valence</cite>. 
+	Presented at This Happened. Brakke grond, Amsterdam, NL.
 </div>
 
 <div class="publication talk box">
@@ -237,6 +267,8 @@ title: Publications
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Integrated 2011 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
 </div>
+
+
 
 <div class="publication talk box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
