@@ -225,6 +225,14 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/stefan-gabriels.html" class="author">Gabriëls S.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
+    <tr>
+		<td data-title="Class"><a href="http://nodebox.net/gallery/2014/01/worskhop-helsinki/">NodeBox 3</a></td>
+		<td data-title="Institute">Aalto University, Helsinki</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2014</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
 </table>
 
 
