@@ -9,7 +9,7 @@ team:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
   - [Tom De Smedt, ../people/tom-de-smedt.html]
   - [Stefan Gabriëls, ../people/stefan-gabriels.html]
-  - [Thomas Crombez, http://www.ua.ac.be/main.aspx?c=thomas.crombez]
+  - [Thomas Crombez, "http://www.ua.ac.be/main.aspx?c=thomas.crombez"]
 keywords:
   - data visualization
   - physical

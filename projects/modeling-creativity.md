@@ -3,7 +3,7 @@ layout: project
 section: projects
 title: Modeling Creativity
 coordinator:
-  - [Walter Daelemans, http://www.clips.ua.ac.be/people/walter-daelemans]
+  - [Walter Daelemans, "http://www.clips.ua.ac.be/people/walter-daelemans"]
   - [Lucas Nijs, ../people/lucas-nijs.html]
 team:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
@@ -17,7 +17,7 @@ budget:
 period:
   - 2008-2012
 images:
-  - [modeling-creativity/modeling-creativity.jpg, <a href='http://bit.ly/modeling-creativity'>Download the PDF</a>]
+  - [modeling-creativity/modeling-creativity.jpg, "<a href='http://bit.ly/modeling-creativity'>Download the PDF</a>"]
 
 ---
 

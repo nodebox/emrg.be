@@ -6,7 +6,7 @@ coordinator:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
 team:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
-  - [Ludivine Lechat, http://ludivinelechat.be]
+  - [Ludivine Lechat, "http://ludivinelechat.be"]
   - Nicolas Marinus
   - Tim Vets
 keywords:

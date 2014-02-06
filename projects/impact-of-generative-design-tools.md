@@ -3,7 +3,7 @@ layout: project
 section: projects
 title: Impact of generative design tools
 coordinator:
-  - [Serge Demeyer, http://win.ua.ac.be/~sdemey/]
+  - [Serge Demeyer, "http://win.ua.ac.be/~sdemey/"]
   - [Lucas Nijs, ../people/lucas-nijs.html]
 team:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]

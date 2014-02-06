@@ -7,7 +7,7 @@ coordinator:
 team:
   - [Tom De Smedt, ../people/tom-de-smedt.html]
   - [Lieven Menschaert, ../people/lieven-menschaert.html]
-  - [Ludivine Lechat, http://ludivinelechat.be]
+  - [Ludivine Lechat, "http://ludivinelechat.be"]
   - Bernard Grundlehner
   - Michel Noorloos
   - Julien Penders

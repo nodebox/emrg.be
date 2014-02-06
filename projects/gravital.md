@@ -4,11 +4,11 @@ section: projects
 title: Gravital
 coordinator:
   - [Lucas Nijs, ../people/lucas-nijs.html]
-  - [Walter Daelemans, http://www.clips.ua.ac.be/people/walter-daelemans]
+  - [Walter Daelemans, "http://www.clips.ua.ac.be/people/walter-daelemans"]
 team:
   - [Frederik De Bleser, ../people/frederik-de-bleser.html]
   - [Tom De Smedt, ../people/tom-de-smedt.html]
-  - [Vincent Van Asch, http://www.clips.ua.ac.be/people/vincent-van-asch]
+  - [Vincent Van Asch, "http://www.clips.ua.ac.be/people/vincent-van-asch"]
 keywords:
   - generative art
   - node-based
