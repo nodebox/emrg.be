@@ -83,7 +83,7 @@ However, not everyone is a programmer. Since NodeBox 1, different spin-off versi
 	<tr>
 		<td data-title="Version">NodeBox 1</td>
 		<td data-title="Since">2004</td>
-		<td data-title="Platform" data-title="Platform">Mac OS X</td>
+		<td data-title="Platform">Mac OS X</td>
 		<td data-title="Language">Python</td>
 		<td data-title="Engine">Quartz2D</td>
 		<td data-title="GUI">✓</td>
