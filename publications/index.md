@@ -114,7 +114,7 @@ title: Publications
 	(2005, March 31). 
 	<cite>Computer zoekt vormen en kleuren op maat van ingetikte zoekterm</cite>. 
 	De Standaard, Belgium. 
-	<a href="http://destandaard.be/artikel/detail.aspx?artikelid=GR9DNGVE&word=nodebox" class="attachment">URL</a>
+	<a href="http://destandaard.be/artikel/detail.aspx?artikelid=GR9DNGVE&amp;word=nodebox" class="attachment">URL</a>
 </div>
 
 <br>
