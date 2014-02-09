@@ -8,6 +8,17 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
+	Junqu&eacute; de Fortuny E.,
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	Martens D., 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(in press). 
+	<cite>Evaluating and understanding text-based stock price prediction models.</cite> 
+	Information Processing &amp; Management.
+	<code>IF 0.817</code>
+</div>
+
+<div class="publication box">
 	<a href="http://www.clips.ua.ac.be/people/ben-verhoeven" class="author">Verhoeven B.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a>, 
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
@@ -227,7 +238,7 @@ title: Publications
 <div class="publication talk box">
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
 	<cite>EMRG and the next generation of NodeBox: MAAK</cite>. 
-	Presented at the Computational Creativity Autumn Class, Porvoo, Finland.
+	Presented at the Autumn School of Computational Creativity, Porvoo, Finland.
 </div>
 
 <div class="publication talk box">
@@ -267,8 +278,6 @@ title: Publications
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Integrated 2011 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
 </div>
-
-
 
 <div class="publication talk box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
