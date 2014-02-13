@@ -34,6 +34,13 @@ NOGL (2011) is a free, cross-platform, hardware-accelerated library for creating
 [Read more &raquo;][nogl]
 <p><a class="homepage" href="http://www.cityinabottle.org">http://www.cityinabottle.org</a></p><br>
 
+<h2>Pattern</h2>
+
+Pattern (2012) is a web mining module for Python. It has tools for data mining (web services for Google, Twitter and Wikipedia, web crawler, HTML DOM parser), natural language processing (part-of-speech taggers, n-gram search, sentiment analysis, WordNet), machine learning (vector space model, clustering, classification using KNN, SVM, Perceptron) and network analysis (graph centrality and visualization). 
+<span class="tag-feature">free</span> <span class="tag-feature">cross-platform</span>
+
+<p><a class="homepage" href="http://www.clips.ua.ac.be/pattern">http://www.clips.ua.ac.be/pattern</a></p><br>
+
 <br>
 <hr>
 
