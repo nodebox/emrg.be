@@ -2,7 +2,7 @@
 layout: person
 section: people
 title: Frederik De Bleser
-email: frederik@burocrazy.com
+email: frederik@debleser.be
 images: 
   - "people/frederik.jpg"
 ---
