@@ -8,11 +8,31 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(2014). 
+	<cite>Creative Web Services with Pattern.</cite> 
+	Proceedings of the 5th International Conference on Computational Creativity (ICCC 2014).
+	<a href="http://computationalcreativity.net/iccc2014/wp-content/uploads/2014/06//13.5_DeSmedt.pdf" class="attachment">PDF</a>
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	Marfia F.,
+	Matteucci M.,
+	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
+	(2014). 
+	<cite>Using Wiktionary to build an Italian part-of-speech tagger.</cite> 
+	NLDB 2014.
+</div>
+
+<div class="publication box">
 	Junqu&eacute; de Fortuny E.,
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	Martens D., 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(in press). 
+	(2014). 
 	<cite>Evaluating and understanding text-based stock price prediction models.</cite> 
 	Information Processing &amp; Management.
 	<code>IF 0.817</code>
@@ -25,7 +45,7 @@ title: Publications
 	(2013). 
 	<cite>Ensemble Methods for Personality Recognition.</cite> 
 	Proceedings of the Workshop on Computational Personality Recognition (Shared Task).
-	<a href="http://www.clips.ua.ac.be/sites/default/files/verhoevenetal2013.pdf"  class="attachment">PDF</a>
+	<a href="http://www.clips.ua.ac.be/sites/default/files/verhoevenetal2013.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -236,19 +256,31 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication talk box">
-	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
+	(2014).
+	<cite>Agile Data Mining &amp; Visualization</cite>. 
+	Presented at OpenVis Conference 2014, Boston, USA.
+	<a href="https://www.youtube.com/watch?v=0oUP7uHAsNA" class="attachment">MOV</a>
+</div>
+
+<div class="publication talk box">
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> 
+	(2013). 
 	<cite>EMRG and the next generation of NodeBox: MAAK</cite>. 
 	Presented at the Autumn School of Computational Creativity, Porvoo, Finland.
 </div>
 
 <div class="publication talk box">
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> (2013). 
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> 
+	(2013). 
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Integrated 2013 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
 </div>
 
 <div class="publication talk box">
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> (2013). 
+	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a> 
+	(2013). 
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at Design International Week, Montréal, Canada.
 </div>
@@ -262,7 +294,8 @@ title: Publications
 </div>
 
 <div class="publication talk box">
-	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> (2013). 
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> 
+	(2013). 
 	<cite>Experimental Media Research Group</cite>. 
 	Presented at the Motyf2013 conference, Museum of Modern Art, Warsaw, Poland.
 </div>
