@@ -1,4 +1,9 @@
+import os
+import os.path
 import re
+import shutil
+
+BUILD_DIR = '_site'
 
 BLOCK_TAG_START = '{%'
 BLOCK_TAG_END = '%}'
@@ -73,7 +78,7 @@ def lookup_var(ctx, var):
 
 def eval_template(template, ctx):
     """Evaluate the template using the given context."""
-    s = ""
+    s = ''
     for token in template:
         if token['type'] == 'text':
             s += token['body']
@@ -102,8 +107,45 @@ def parse_page(fname, ctx=None):
     else:
         return merged_meta, html
 
+def _ensure_directory(d):
+    try:
+        os.makedirs(d)
+    except OSError, e:
+        if e.errno == 17:
+            pass
+        else:
+            raise e
+
+def process_file(source_file, target_file):
+    """Copy the file from the source to the target, processing it."""
+    ext = os.path.splitext(source_file)[1]
+    if ext == '.md':
+        try:
+            meta, html = parse_page(source_file)
+        except Exception, e:
+            print 'ERROR while parsing page %s' % source_file
+            raise e
+        target_base = os.path.splitext(target_file)[0]
+        target_file = '%s.html' % target_base
+        with open(target_file, 'w') as f:
+            f.write(html)
+    else:
+        shutil.copy(source_file, target_file)
+
+def build(path='.'):
+    for f in os.listdir(path):
+        file_path = os.path.join(path, f)
+        if os.path.isfile(file_path):
+            target_dir = os.path.join(BUILD_DIR, path)
+            _ensure_directory(target_dir)
+            target_file = os.path.join(target_dir, f)
+            process_file(file_path, target_file)
+        elif os.path.isdir(file_path):
+            if f.startswith('.git'): continue
+            if f.startswith('_'): continue
+            build(os.path.join(path, f))
+        else:
+            print 'Unsupported file type', file_path
+
 if __name__=='__main__':
-    meta, html = parse_page("index.md")
-    print html
-
-
+    build()
