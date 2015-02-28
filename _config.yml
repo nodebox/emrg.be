@@ -1,4 +1,4 @@
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:title/
 exclude:
   - README.md
