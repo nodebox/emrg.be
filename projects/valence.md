@@ -30,3 +30,6 @@ Valence is a project funded by IMEC (Interuniversity Microelectronics Centre). I
 
 <h3>Website</h3>
 [organisms.be/index.php/valence](http://organisms.be/index.php/valence)
+
+<h3>References</h3>
+<p class="cite"><small>De Smedt T., Menschaert L. (2012). VALENCE: Affective visualisation using EEG. Digital Creativity, 23(3-4): 272-277.</small></p>

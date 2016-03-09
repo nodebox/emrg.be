@@ -27,6 +27,18 @@ title: People
 </div>
 
 <div class="box">
+	<img src="/media/people/pieter-s.jpg" /> 
+	<a href="pieter-heremans.html">Pieter Heremans</a><br>Researcher, works on
+	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
+</div>
+
+<div class="box">
+	<img src="/media/people/ludivine-s.jpg" /> 
+	<a href="ludivine-lechat.html">Ludivine Lechat</a><br>Researcher &amp; PhD student, works on
+	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
+</div>
+
+<div class="box">
 	<img src="/media/people/lieven-s.jpg" /> 
 	<a href="lieven-menschaert.html">Lieven Menschaert</a><br>Researcher, works on 
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
@@ -42,12 +54,8 @@ title: People
 
 <div class="box">
 	<img src="/media/img/avatar.png" /> 
-	<a href="http://www.ua.ac.be/thomas.crombez">Thomas Crombez</a><br>Postdoctoral researcher.
-</div>
-
-<div class="box">
-	<img src="/media/img/avatar.png" /> 
-	<a href="http://www.ludivinelechat.be">Ludivine Lechat</a><br>New media artist.
+	<a href="http://www.ua.ac.be/thomas.crombez">Thomas Crombez</a>
+	<br>Postdoctoral researcher.
 </div>
 
 <br>
@@ -55,25 +63,37 @@ title: People
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.clips.ua.ac.be">CLiPS</a><br>Computational Psycholinguistics Research Center (Universiteit Antwerpen).
+	<a target="_blank" href="http://www.clips.ua.ac.be">CLiPS</a>
+	<br>Computational Psycholinguistics Research Center (Universiteit Antwerpen).
 </div>
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.densitydesign.org">Density Design</a><br>Design Research Lab (Politectnico di Milano).
+	<a target="_blank" href="http://www.densitydesign.org">Density Design</a>
+	<br>Design Research Lab (Politectnico di Milano).
 </div>
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.imec.be">IMEC</a><br>Interuniversity Microelectronics Center (Leuven).
+	<a target="_blank" href="http://dighum.uantwerpen.be">Digital Humanities Platform</a>
+	<br>Digital Humanities Platform (Universiteit Antwerpen).
 </div>
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://dighum.uantwerpen.be">Digital Humanities Platform</a><br>Digital Humanities Platform (Universiteit Antwerpen).
+	<a target="_blank" href="http://www.imec.be">IMEC</a>
+	<br>Interuniversity Microelectronics Center (Leuven).
+</div>
+
+
+<div class="box">
+	<img src="/media/img/home.png" /> 
+	<a target="_blank" href="http://prosecco-network.eu">PROSECCO</a>
+	<br>Promoting the Scientific Exploration of Computational Creativity.
 </div>
 
 <div class="box">
 	<img src="/media/img/home.png" /> 
-	<a target="_blank" href="http://www.todo.to.it">TODO</a><br>Interaction &amp; Media Design Studio (Torino).
+	<a target="_blank" href="http://www.todo.to.it">TODO</a>
+	<br>Interaction &amp; Media Design Studio (Torino).
 </div>
