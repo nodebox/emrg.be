@@ -139,7 +139,13 @@ title: Publications
 <h2>Press coverage</h2>
 <!-- Newspaper articles about EMRG and citing EMRG or EMRG members. -->
 <!-- =================================================================================================== -->
-
+<div class="publication press box">
+	Peeters A-M. 
+	(2015, July 1). 
+	<cite>Muziek vanuit de scanner</cite>. 
+	De Standaard, Belgium. 
+	<a href="http://www.standaard.be/cnt/dmf20150630_01756436" class="attachment">URL</a>
+</div>
 <div class="publication press box">
 	Verelst J. 
 	(2005, March 31). 
