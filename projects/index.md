@@ -9,7 +9,8 @@ title: Research Projects
 Current projects
 ----------------
 
-* [Story Table ](story-table.html) Interactive fairytales for hospitalized children. _2016-2020_
+* [Story Table](story-table.html) Interactive fairytales for hospitalized children. _2016-2020_
+* [Interactive Fairytales](interactive-fairytales.html) Stress and loneliness in hospitalized children? _2016-2020_
 * [Generative Design Tools](impact-of-generative-design-tools.html) How do new procedural tools influence designers? _2012-2016_
 
 Past projects

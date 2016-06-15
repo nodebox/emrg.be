@@ -10,6 +10,26 @@ title: Publications
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
+	Crombez T. 
+	(2016). 
+	<cite>Automatic Timeline Visualization of Paintings.</cite> 
+	Digital Humanities Benelux Conference (DHBenelux 2016).
+	<a href="http://www.dhbenelux.org/wp-content/uploads/2016/05/22_DeSmedt-etal_FinalAbstract_DHBenelux2016_short.pdf" class="attachment">PDF</a>
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
+	<a href="../people/pieter-heremans.html" class="author">Heremans P.</a>, 
+	<a href="../people/ludivine-lechat.html" class="author">Lechat L.</a>, 
+	Dhooghe G. 
+	(submitted 2015). 
+	<cite>An EEG study of creativity in expert classical musicians.</cite> 
+</div>
+
+<div class="publication box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2014). 
 	<cite>Creative Web Services with Pattern.</cite> 
@@ -141,6 +161,14 @@ title: Publications
 <!-- =================================================================================================== -->
 
 <div class="publication press box">
+	Deckmyn D. 
+	(2016, April 7). 
+	<cite>Computer herschrijft kunstgeschiedenis</cite>. 
+	De Standaard, Belgium. 
+	<a href="http://www.standaard.be/cnt/dmf20160406_02223181" class="attachment">URL</a>
+</div>
+
+<div class="publication press box">
 	Verelst J. 
 	(2005, March 31). 
 	<cite>Computer zoekt vormen en kleuren op maat van ingetikte zoekterm</cite>. 
@@ -152,6 +180,25 @@ title: Publications
 <h2>Exhibitions</h2>
 <!-- Solo exhibitions or international group exhibitions. -->
 <!-- =================================================================================================== -->
+
+<div class="publication exhibition box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
+	Crombez T. 
+	(2016). 
+	<cite>Automatic Timeline Visualization of Paintings.</cite> 
+	Presented at Showroom2, Sint Lucas Antwerpen, BE.
+</div>
+
+<div class="publication exhibition box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
+	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
+	<a href="../people/pieter-heremans.html" class="author">Heremans P.</a>, 
+	<a href="../people/lechat-ludivine.html" class="author">Lechat L.</a> 
+	(2015). 
+	<cite>Flow.</cite> 
+	Presented at Pressure Cooking Festival (Festival of Flanders), Casino, Tongeren, BE.
+</div>
 
 <div class="publication exhibition box">
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
@@ -254,6 +301,13 @@ title: Publications
 <h2>Conference lectures</h2>
 <!-- Conference lectures and invited symposia talks. -->
 <!-- =================================================================================================== -->
+
+<div class="publication exhibition box">
+	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
+	(2016). 
+	<cite>Automatic Timeline Visualization of Paintings.</cite> 
+	Presented at DHBenelux 2016, Luxembourg, LU.
+</div>
 
 <div class="publication talk box">
 	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
