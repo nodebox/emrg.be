@@ -233,6 +233,46 @@ Click a link in the overview below to view related background information:
 		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
 		<td data-title="&nbsp;"></td>
 	</tr>
+     <tr>
+		<td data-title="Class">NodeBox Live</td>
+		<td data-title="Institute">Aalto University, Helsinki</td>
+		<td data-title="Country">FI</td>
+		<td data-title="Year">2015</td>
+		<td data-title="Teachers"><a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
+    <td data-title="Class"><a href="http://workshops.nodebox.net/2015-vilnius/">NodeBox Live</a></td>
+		<td data-title="Institute">Academy of Arts, Vilnius</td>
+		<td data-title="Country">LT</td>
+		<td data-title="Year">2015</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a></td>
+        <td data-title="&nbsp;">, </td>
+	</tr>
+    
+    <tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2015-antwerp/">NodeBox Live</a></td>
+		<td data-title="Institute">Artesis/KdG, Antwerp</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2015</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a></td>
+		 </td><td data-title="&nbsp;"></td>
+	</tr>
+    <tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2015-warsaw/">NodeBox Live</a></td>
+		<td data-title="Institute">Polish Japanese Institute, Warsaw</td>
+		<td data-title="Country">PL</td>
+		<td data-title="Year">2015</td>
+		<td data-title="Teachers"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, <a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+		<td data-title="&nbsp;"></td>
+	</tr>
+	<tr>
+		<td data-title="Class"><a href="http://workshops.nodebox.net/2015-liege/">NodeBox Live</a></td>
+		<td data-title="Institute">St-Luc, Liège</td>
+		<td data-title="Country">BE</td>
+		<td data-title="Year">2015</td>
+		<td data-title="Teachers"><a href="../people/pieter-heremans.html" class="author">Heremans P.</a>, <a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> </td>
+		<td data-title="&nbsp;"><a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, <a href="../people/lucas-nijs.html" class="author">Nijs L.</a></td>
+	</tr>
 </table>
 
 
