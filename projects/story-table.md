@@ -17,11 +17,13 @@ keywords:
   - stress
 period:
   - 2016-2020
+images:
+  - [interactive-fairytales/interactive-fairytales3.jpg, © Ludivine Lechat]
 
 ---
 
 <h3>Abstract</h3>
-Story Table aims to develop multimedia games ("interactive fairytales") for children in the hospital, to reduce stress and loneliness. The research is funded by the Flemish government and conducted at the St Lucas School of Arts in Antwerp, Belgium.
+Story Table aims to develop multimedia games (interactive fairytales) for children in the hospital, to reduce stress and loneliness. The research is funded by the Flemish government and conducted at the St Lucas School of Arts in Antwerp, Belgium.
 
 The advisory board of the project consists of hospitals (University Hospital Antwerp, University Hospital Leuven, Ghent Health Psychology Lab), computer science research groups (<a href="http://www.clips.uantwerp.be">CLiPS</a>, University of Antwerp, <a href="http://nil.fdi.ucm.es">NIL</a>, University of Madrid, <a href="http://afflatus.ucd.ie">CLS</a>, University College Dublin), parents of deceased children, psychologists, international non-profit art organizations (RxArt New York), and industry partners active in healthcare.
 
@@ -32,3 +34,7 @@ In Story Table, we focus on hospitalized children. Children in the hospital ofte
 In Story Table, we want to develop games that offer distraction and make (prolonged) hospital visits more enjoyable for children. EMRG has a long history with digital artwork inspired by nature, creativity research, and tools for improving human-computer interaction.
 
 We focus on three research approaches: 1) using an interactive wall projection, 2) using an interactive table, and 3) using AI story generation techniques.
+
+<h3>Interview</h3>
+Short presentation of the research team, in Dutch:
+<iframe src="https://player.vimeo.com/video/171401594" width="600" height="335" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>

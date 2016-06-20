@@ -24,6 +24,10 @@ address { margin: 0 0 1em 0; }
 img { vertical-align: middle; }
 hr { height: 0px !important; border: 0; border-bottom: 1px solid #ccc; }
 
+#content ul {
+	padding-left: 1.5em;
+}
+
 #content table { border-collapse: collapse; width: 100%; margin: 20px 0; }
 #content table th { font-weight: normal; text-transform: uppercase; }
 #content table th,

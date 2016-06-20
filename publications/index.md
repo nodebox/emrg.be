@@ -197,6 +197,13 @@ title: Publications
 </div>
 
 <div class="publication exhibition box">
+	<a href="../people/ludivine-lechat.html" class="author">Lechat L.</a> 
+	(2016). 
+	<cite>Digital Nature.</cite> 
+	Presented at De Tuin van Heden, Plantentuin Meise, BE.
+</div>
+
+<div class="publication exhibition box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a>, 
 	<a href="../people/pieter-heremans.html" class="author">Heremans P.</a>, 
