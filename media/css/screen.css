@@ -475,6 +475,9 @@ a.download {
 @media all and (max-width:767px) { .projects-overview #content li {
     width: 92%;
 }}
+.projects-overview #content ul {
+	padding: 0;
+}
 .projects-overview #content li a {
     display: block;
     color: #3572a4;

@@ -9,7 +9,7 @@ title: People
 
 <div class="box">
 	<img src="/media/people/frederik-s.jpg" />
-	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>Researcher &amp; PhD student, works on 
+	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>Postdoctoral researcher, works on 
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
@@ -35,6 +35,7 @@ title: People
 <div class="box">
 	<img src="/media/people/ludivine-s.jpg" /> 
 	<a href="ludivine-lechat.html">Ludivine Lechat</a><br>Researcher &amp; PhD student, works on
+	<a href="../projects/interactive-fairytales.html" class="tag-project">Interactive Fairytales</a>, 
 	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
 </div>
 
@@ -85,7 +86,6 @@ title: People
 	<br>Interuniversity Microelectronics Center (Leuven).
 </div>
 
-
 <div class="box">
 	<img src="/media/img/home.png" /> 
 	<a target="_blank" href="http://prosecco-network.eu">PROSECCO</a>
@@ -96,4 +96,10 @@ title: People
 	<img src="/media/img/home.png" /> 
 	<a target="_blank" href="http://www.todo.to.it">TODO</a>
 	<br>Interaction &amp; Media Design Studio (Torino).
+</div>
+
+<div class="box">
+	<img src="/media/img/home.png" /> 
+	<a target="_blank" href="http://www.uza.be">UZA</a>
+	<br>University Hospital Antwerp.
 </div>
