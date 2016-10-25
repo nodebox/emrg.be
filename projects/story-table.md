@@ -5,11 +5,11 @@ title: Story Table
 coordinator:
   - [Lucas Nijs, ../people/lucas-nijs.html]
 team:
-  - [Frederik De Bleser, ../people/frederik-de-bleser.html]
-  - [Tom De Smedt, ../people/tom-de-smedt.html]
-  - [Pieter Heremans, ../people/pieter-heremans.html]
   - [Ludivine Lechat, ../people/ludivine-lechat.html]
+  - [Tom De Smedt, ../people/tom-de-smedt.html]
   - [Lieven Menschaert, ../people/lieven-menschaert.html]
+  - [Frederik De Bleser, ../people/frederik-de-bleser.html]
+  - [Pieter Heremans, ../people/pieter-heremans.html]
 keywords:
   - serious games
   - healthcare
