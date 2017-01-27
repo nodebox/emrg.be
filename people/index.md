@@ -8,6 +8,12 @@ title: People
 <p><small>In alphabetical order:</small></p>
 
 <div class="box">
+	<img src="/media/people/blank-s.jpg" /> 
+	<a href="ben-burtenshaw.html">Ben Burtenshaw</a><br>Researcher &amp; PhD student, works on
+	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
+</div>
+
+<div class="box">
 	<img src="/media/people/frederik-s.jpg" />
 	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>Postdoctoral researcher, works on 
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
@@ -51,12 +57,18 @@ title: People
 </div>
 
 <br>
-<h2>EMRG partners</h2>
+<h2>EMRG associate members</h2>
 
 <div class="box">
 	<img src="/media/img/avatar.png" /> 
 	<a href="http://www.ua.ac.be/thomas.crombez">Thomas Crombez</a>
 	<br>Postdoctoral researcher.
+</div>
+
+<div class="box">
+	<img src="/media/img/avatar.png" /> 
+	<a href="http://madrobot.be">Tom Van Iersel</a>
+	<br>Designer, psychologist.
 </div>
 
 <br>
