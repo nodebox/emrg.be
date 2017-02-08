@@ -1,5 +1,5 @@
 highlighter: pygments
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title.html
 exclude:
   - README.md
   - Rakefile
