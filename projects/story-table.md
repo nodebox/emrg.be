@@ -19,6 +19,8 @@ period:
   - 2016-2020
 images:
   - [interactive-fairytales/interactive-fairytales3.jpg, © Ludivine Lechat]
+  - [story-table/dog.png, © Ludivine Lechat]
+  - [story-table/deer.png, © Ludivine Lechat]
 
 ---
 
@@ -35,6 +37,15 @@ In Story Table, we want to develop games that offer distraction and make (prolon
 
 We focus on three research approaches: 1) using an interactive wall projection, 2) using an interactive table, and 3) using AI story generation techniques.
 
-<h3>Interview</h3>
-Short presentation of the research team, in Dutch:
+<h3>Media</h3>
+
+<iframe src="https://player.vimeo.com/video/211770406" width="600" height="385" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
 <iframe src="https://player.vimeo.com/video/171401594" width="600" height="335" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
+<h3>Press</h3>
+
+- _'Interactive games put young patients at ease'_, <a href="http://www.flanderstoday.eu/innovation/interactive-games-put-young-patients-ease">Flanders Today</a>, 2016
+- _'Wachtzaal wordt interactief sprookjesbos'_, <a href="http://nl.metrotime.be/2016/06/27/must-read/wachtzaal-wordt-interactief-sprookjesbos/">Metro</a>, 2016
+- _'Visjes zwemmen op muur ziekenkamer'_, <a href="https://www.uantwerpen.be/popup/nieuwsonderdeel.aspx?newsitem_id=2111">UAntwerpen</a>, 2016
+- _'Story Table, interactieve sprookjes in het ziekenhuis'_, <a href="https://smartbelgium.belfius.be/story-table-interactieve-sprookjes-ziekenhuis/">Belfius</a>, 2017
