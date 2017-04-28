@@ -49,3 +49,6 @@ We focus on three research approaches: 1) using an interactive wall projection, 
 - _'Wachtzaal wordt interactief sprookjesbos'_, <a href="http://nl.metrotime.be/2016/06/27/must-read/wachtzaal-wordt-interactief-sprookjesbos/">Metro</a>, 2016
 - _'Visjes zwemmen op muur ziekenkamer'_, <a href="https://www.uantwerpen.be/popup/nieuwsonderdeel.aspx?newsitem_id=2111">UAntwerpen</a>, 2016
 - _'Story Table, interactieve sprookjes in het ziekenhuis'_, <a href="https://smartbelgium.belfius.be/story-table-interactieve-sprookjes-ziekenhuis/">Belfius</a>, 2017
+
+<br>
+<img src="/media/story-table/UA.jpg" height="75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/media/story-table/UZA.jpg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/media/story-table/UZL.jpg" height="50">
