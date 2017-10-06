@@ -61,7 +61,7 @@ title: People
 
 <div class="box">
 	<img src="/media/img/avatar.png" />
-	<a href="http://www.cartania.com/">John Cartan</a>
+	<a href="https://twitter.com/jcartan">John Cartan</a>
 	<br>User Interface Designer, NodeBox support admin.
 </div>
 
