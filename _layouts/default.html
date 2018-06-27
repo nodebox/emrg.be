@@ -1,13 +1,14 @@
 ---
 layout: base
 ---
+<div class="container">
   <!-- Page Title -->
   <div class="row">
     <div class="sixteen columns">
       <h2 id="page-title">{{ page.title }}</h2>
     </div>
   </div>
-  
+
   <!-- Content -->
   <div class="twelve columns">
     {{ content }}
@@ -20,8 +21,9 @@ layout: base
         <a class="thumb" rel="images" href="/media/{{ image[0] }}" title="{{ image[1] }}"><img src="/media/{{ image[0] }}" alt="{{ image[1] }}"></a>
 		<div class="caption">{{ image[1] }}</div>
       {% else %}
-        <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>      
+        <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
       {% endif %}
     {% endfor %}
   </aside>
-  {% endif %}  
+  {% endif %}
+</div> <!-- .container -->

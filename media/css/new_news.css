@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+/*html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-size: 1rem;
+}
+
+html, body {
+    background-color: #fff;
+    color: #333;
+    -webkit-font-smoothing: antialised;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    ms-touch-action: manipulate;
+    touch-action: manipulate;
+}*/
+
+img, svg, video {
+    max-width: 100%;
+    display: block;
+}
+
+.caption {
+    font-size: .7rem;
+    line-height: .9rem;
+    margin: 5px 0 0;
+    position: relative;
+    text-align: left;
+}
+
+.caption span {
+    display: block;
+}
+
+.caption span.title {
+    display: block;
+    font-weight: 700;
+}
+
+.hero-container {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    padding: 10rem 0;
+    margin-top: -50px;
+}
+
+.hero-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    object-fit: cover;
+}
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;;
+    transform: translate(-50%, -50%);
+    z-index: 19;
+    color: white;
+}
+
+.hero-content h1 {
+    display: block;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+
+section {
+    overflow: hidden;
+    padding: 50px 0 100px;
+    padding: 3rem 0 6.25rem;
+}
+
+section:nth-child(2n+2) {
+    background-color: #f2f2f2;
+}
+/*.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 3rem;
+}
+*/
+
+#content h1, #content h2, #content h3 {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+#content h2 {
+    font-size: 2.75rem;
+}
+
+#content p.subheading {
+    text-align: center;
+    max-width: 48rem;
+    margin: 2rem auto;
+}
+
+@media (min-width: 900px) {
+.grid {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.25rem 0 1rem;
+    padding: 0 3.4rem;
+}
+
+.grid .column {
+    width: calc(50% - 1.5rem);
+    z-index: 6;
+}
+}
+
+section p {
+    font-size: 1rem;
+    letter-spacing: .1px;
+    line-height: 1.5rem;
+    margin: 1.8rem 0 0;
+}
+
+section a {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+}
+
+section a:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 4px;
+    height: 3px;
+    background-color: #1800ff26;
+    border-radius: 3px;
+    width: 100%;
+    z-index: 2;
+    cursor: pointer;
+}
+
+section img {
+    margin: 1.8rem 0 0;
+}

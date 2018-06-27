@@ -1,13 +1,14 @@
 ---
 layout: base
 ---
+<div class="container">
   <!-- Page Title -->
   <div class="row">
     <div class="sixteen columns">
       <h2 id="page-title">{{ page.title }}</h2>
     </div>
   </div>
-  
+
   <!-- Content -->
   <div class="twelve columns">
     {{ content }}
@@ -18,6 +19,7 @@ layout: base
     {% for image in page.images %}
       <a class="thumb" rel="images" href="/media/{{ image }}"><img src="/media/{{ image }}" alt="{{ page.title }}"></a>
     {% endfor %}
-  {% endif %}  
+  {% endif %}
   <p>email: <strong>{{ page.email|scramble_text }}</strong></p>
   </aside>
+</div> <!-- .container -->
