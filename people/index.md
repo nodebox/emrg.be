@@ -20,7 +20,7 @@ title: People
 </div>
 
 <div class="box">
-	<img src="/media/people/tom-s.jpg" />
+	<img src="/media/people/blank-s.jpg" />
 	<a href="tom-de-smedt.html">Tom De Smedt</a><br>Postdoctoral researcher, works on
 	<a href="http://www.clips.ua.ac.be/pages/pattern" class="tag-software">Pattern</a>,
 	<a href="../software/nodebox-opengl.html" class="tag-software">NOGL</a>.
