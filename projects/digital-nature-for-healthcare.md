@@ -18,6 +18,7 @@ budget:
 period:
   - 2016-2020
 images:
+  - [digital-nature-for-healthcare/digital-nature-for-healthcare-4.jpg, © Ludivine Lechat]
   - [digital-nature-for-healthcare/digital-nature-for-healthcare-1.jpg, © Ludivine Lechat]
   - [digital-nature-for-healthcare/digital-nature-for-healthcare-2.jpg, © Ludivine Lechat]
   - [digital-nature-for-healthcare/digital-nature-for-healthcare-3.jpg, © Ludivine Lechat]
