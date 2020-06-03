@@ -18,7 +18,7 @@ keywords:
 period:
   - 2016-2020
 images:
-  - [interactive-fairytales/interactive-fairytales3.jpg, © Ludivine Lechat]
+  - [digital-nature-for-healthcare/digital-nature-for-healthcare-3.jpg, © Ludivine Lechat]
   - [story-table/dog.png, © Ludivine Lechat]
   - [story-table/deer.png, © Ludivine Lechat]
 

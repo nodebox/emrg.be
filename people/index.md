@@ -41,7 +41,7 @@ title: People
 <div class="box">
 	<img src="/media/people/ludivine-s.jpg" />
 	<a href="ludivine-lechat.html">Ludivine Lechat</a><br>Researcher &amp; PhD student, works on
-	<a href="../projects/interactive-fairytales.html" class="tag-project">Interactive Fairytales</a>,
+	<a href="../projects/digital-nature-for-healthcare.html" class="tag-project">Digital Nature for Healthcare</a>,
 	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
 </div>
 

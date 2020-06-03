@@ -10,7 +10,7 @@ Ludivine Lechat is a new media artist and illustrator specialising in artwork in
 
 <h3>Research projects</h3>
 
-<div class="box"><a href="../projects/interactive-fairytales.html" class="tag-project">Interactive Fairytales</a> (2016-2020). The aim of my PhD research is to study the effects of new media art (digital illustration inspired by nature) and interactive play on the major stressors of young patients.</div>
+<div class="box"><a href="../projects/digital-nature-for-healthcare.html" class="tag-project">Digital Nature for Healthcare</a> (2016-2020). The aim of my PhD research is to study the effects of new media art (digital illustration inspired by nature) and interactive play on the major stressors of young patients.</div>
 
 <div class="box"><a href="../projects/story-table.html" class="tag-project">Story Table</a> (2016-2020). The aim of Story Table is to develop interactive games (fairytales) for hospitalized children, to relieve stress and loneliness.</div>
 

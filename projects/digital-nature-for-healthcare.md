@@ -1,7 +1,7 @@
 ---
 layout: project
 section: projects
-title: Interactive Fairytales
+title: Digital Nature for Healthcare
 coordinator:
   - [Koen Norga, "https://www.uza.be/persoon/prof-dr-koen-norga"]
   - [Monica Dhar, "http://www.vub.ac.be/EXTO/index.php?option=com_content&task=view&id=134"]
@@ -18,9 +18,9 @@ budget:
 period:
   - 2016-2020
 images:
-  - [interactive-fairytales/interactive-fairytales1.jpg, © Ludivine Lechat]
-  - [interactive-fairytales/interactive-fairytales2.jpg, © Ludivine Lechat]
-  - [interactive-fairytales/interactive-fairytales3.jpg, © Ludivine Lechat]
+  - [digital-nature-for-healthcare/digital-nature-for-healthcare-1.jpg, © Ludivine Lechat]
+  - [digital-nature-for-healthcare/digital-nature-for-healthcare-2.jpg, © Ludivine Lechat]
+  - [digital-nature-for-healthcare/digital-nature-for-healthcare-3.jpg, © Ludivine Lechat]
 
 ---
 
