@@ -4,50 +4,49 @@ section: people
 title: People
 ---
 
-<h2>EMRG members</h2>
+<h2>EMRG members (2004-2020)</h2>
 <p><small>In alphabetical order:</small></p>
 
 <div class="box">
 	<img src="/media/people/blank-s.jpg" />
-	<a href="ben-burtenshaw.html">Ben Burtenshaw</a><br>Researcher &amp; PhD student, works on
+	<a href="ben-burtenshaw.html">Ben Burtenshaw</a><br>Researcher &amp; PhD student, worked on
 	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/frederik-s.jpg" />
-	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>Postdoctoral researcher, works on
+	<a href="frederik-de-bleser.html">Frederik De Bleser</a><br>Postdoctoral researcher, worked on
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/blank-s.jpg" />
-	<a href="tom-de-smedt.html">Tom De Smedt</a><br>Postdoctoral researcher, works on
-	<a href="http://www.clips.ua.ac.be/pages/pattern" class="tag-software">Pattern</a>,
+	<a href="tom-de-smedt.html">Tom De Smedt</a><br>Postdoctoral researcher, worked on
 	<a href="../software/nodebox-opengl.html" class="tag-software">NOGL</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/stefan-s.jpg" />
-	<a href="stefan-gabriels.html">Stefan Gabriëls</a><br>Researcher, works on
+	<a href="stefan-gabriels.html">Stefan Gabriëls</a><br>Researcher, worked on
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/pieter-s.jpg" />
-	<a href="pieter-heremans.html">Pieter Heremans</a><br>Researcher, works on
+	<a href="pieter-heremans.html">Pieter Heremans</a><br>Researcher, worked on
 	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/ludivine-s.jpg" />
-	<a href="ludivine-lechat.html">Ludivine Lechat</a><br>Researcher &amp; PhD student, works on
+	<a href="ludivine-lechat.html">Ludivine Lechat</a><br>Researcher &amp; PhD student, worked on
 	<a href="../projects/digital-nature-for-healthcare.html" class="tag-project">Digital Nature for Healthcare</a>,
 	<a href="../projects/story-table.html" class="tag-project">Story Table</a>.
 </div>
 
 <div class="box">
 	<img src="/media/people/lieven-s.jpg" />
-	<a href="lieven-menschaert.html">Lieven Menschaert</a><br>Researcher, works on
+	<a href="lieven-menschaert.html">Lieven Menschaert</a><br>Researcher, worked on
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
 </div>
 
@@ -67,13 +66,13 @@ title: People
 
 <div class="box">
 	<img src="/media/img/avatar.png" />
-	<a href="http://www.ua.ac.be/thomas.crombez">Thomas Crombez</a>
+	Thomas Crombez
 	<br>Postdoctoral researcher.
 </div>
 
 <div class="box">
 	<img src="/media/img/avatar.png" />
-	<a href="http://madrobot.be">Tom Van Iersel</a>
+	Tom Van Iersel
 	<br>Designer, psychologist.
 </div>
 
