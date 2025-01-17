@@ -33,18 +33,3 @@ Gravital is funded by IWT (Institute for the Promotion of Innovation by Science 
 <h3>References</h3>
 <p class="cite"><small>De Smedt T., De Bleser F., Nijs L. (2010). NodeBox 2. In: Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), pp. 350-352. ISBN 978-3-86895-103-5</small></p>
 <p class="cite"><small>De Smedt T., Van Asch V.,, Daelemans W. (2010). <cite>Memory-based shallow parser for Python.</cite> CLiPS Technical Report Series, CTRS-002, ISSN 2033-3544.</small></p>
-
-<h3>Consortium</h3>
-In order of appearance:
-
-* [KAN Creative Consultants](http://www.kandesign.com)
-* [Netlash](http://www.netlash-bseen.be)
-* [Antilope](http://www.antilope.com)
-* [K15](http://www.k15.be)
-* [VIGC](http://www.vigc.be)
-* [visionandfactory](http://www.visionandfactory.com)
-* [Achilles Associates](http://www.achilles.be)
-* [Cronos](http://www.cronos.be)
-* [LUON](http://www.luon.com)
-* [Ad!dict Creative Lab](http://www.addictlab.com)
-* [Drukkerij De Haes](http://www.dehaes.be)
