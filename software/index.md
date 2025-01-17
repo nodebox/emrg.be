@@ -4,7 +4,6 @@ section: software
 title: Software
 images:
   - [software/nodebox3.jpg, NodeBox 3]
-  - [software/nogl.jpg, NodeBox for OpenGL]
   - [software/nodebox1.jpg, NodeBox 1]
 ---
 
@@ -27,27 +26,13 @@ NodeBox 1 (2004, the "classic") is a free software application for Mac OS X that
 [Read more &raquo;][nodebox1]
 <p><a class="homepage" href="http://nodebox.net/code/">http://nodebox.net/code/</a></p><br>
 
-<h2><a href="nodebox-opengl.html">NodeBox for OpenGL</a></h2>
-
-NOGL (2011) is a free, cross-platform, hardware-accelerated library for creating 2D animations using Python programming code. It is based on <a href="http://www.pyglet.org" class="tag-software">Pyglet</a> and uses the NodeBox 1 API, minus the graphical user interface. It was initiated as part of a computer game project (<a href="../projects/city-in-a-bottle.html" class="tag-project">City in a bottle</a>). 
-<span class="tag-feature">free</span> <span class="tag-feature">cross-platform</span> <span class="tag-feature">GPU</span>
-[Read more &raquo;][nogl]
-<p><a class="homepage" href="http://www.cityinabottle.org">http://www.cityinabottle.org</a></p><br>
-
-<h2>Pattern</h2>
-
-Pattern (2012) is a web mining module for Python. It has tools for data mining (web services for Google, Twitter and Wikipedia, web crawler, HTML DOM parser), natural language processing (part-of-speech taggers, n-gram search, sentiment analysis, WordNet), machine learning (vector space model, clustering, classification using KNN, SVM, Perceptron) and network analysis (graph centrality and visualization). 
-<span class="tag-feature">free</span> <span class="tag-feature">cross-platform</span>
-
-<p><a class="homepage" href="http://www.clips.ua.ac.be/pattern">http://www.clips.ua.ac.be/pattern</a></p>
-
 <br>
 <hr>
 
 <h3>Design philosophy</h3>
 In 2003 we created NodeBox (now cited as "NodeBox 1" or the "classic" version) to overcome limitations in existing computer graphics software. We didn't just want to apply pre-build effects, we wanted to create our own. We wanted to connect the visual output to different input channels, such as databases, corpora and information from the WWW. This is possible in a programming language (<a href="http://www.python.org" class="tag-software">Python</a>), where plug-in libraries can be freely combined. This work was inspired by <a href="http://www.processing.org" class="tag-software">Processing</a> and <a href="http://www.drawbot.com" class="tag-software">DrawBot</a>. 
 
-However, not everyone is a programmer. Since NodeBox 1, different spin-off versions are in development. NodeBox 3 focuses on a flexible GUI instead of Python code. NOGL focuses on performance. The idea is to converge on one version: one that is free, cross-platform, with a node-based GUI, hardware accelerated, parallel, working on mobile devices, with both scientific and artistic functionality for robust data visualization.
+However, not everyone is a programmer. Since NodeBox 1, different spin-off versions are in development. NodeBox 3 focuses on a flexible GUI instead of Python code. The idea is to converge on one version: one that is free, cross-platform, with a node-based GUI, hardware accelerated, parallel, working on mobile devices, with both scientific and artistic functionality for robust data visualization.
 
 <h3>Feature comparison</h3>
 <table style="margin-bottom:0;">
@@ -99,18 +84,6 @@ However, not everyone is a programmer. Since NodeBox 1, different spin-off versi
 		<td data-title="PNG">✓</td>
 		<td data-title="MOV">✓</td>
 	</tr>
-	<tr>
-		<td data-title="Version">NOGL</td>
-		<td data-title="Since">2011</td>
-		<td data-title="Platform">Windows, Mac, Linux</td>
-		<td data-title="Language">Python</td>
-		<td data-title="Engine">OpenGL</td>
-		<td data-title="GUI"></td>
-		<td data-title="GPU">✓</td>
-		<td data-title="PDF"></td>
-		<td data-title="PNG">✓</td>
-		<td data-title="MOV"></td>
-	</tr>
 </table>
 <small><sup>1</sup> No longer actively developed.</small>
 
@@ -120,4 +93,3 @@ All versions of NodeBox are free software and source code is available on [GitHu
 
 [nodebox1]: /software/nodebox-1.html
 [nodebox3]: /software/nodebox-3.html
-[nogl]: /software/nodebox-opengl.html
