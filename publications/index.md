@@ -14,7 +14,6 @@ title: Publications
 	(2016). 
 	<cite>Automatic Timeline Visualization of Paintings.</cite> 
 	Digital Humanities Benelux Conference (DHBenelux 2016).
-	<a href="http://www.dhbenelux.org/wp-content/uploads/2016/05/22_DeSmedt-etal_FinalAbstract_DHBenelux2016_short.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -34,38 +33,6 @@ title: Publications
 	(2014). 
 	<cite>Creative Web Services with Pattern.</cite> 
 	Proceedings of the 5th International Conference on Computational Creativity (ICCC 2014).
-	<a href="http://computationalcreativity.net/iccc2014/wp-content/uploads/2014/06//13.5_DeSmedt.pdf" class="attachment">PDF</a>
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	Marfia F.,
-	Matteucci M.,
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2014). 
-	<cite>Using Wiktionary to build an Italian part-of-speech tagger.</cite> 
-	NLDB 2014.
-</div>
-
-<div class="publication box">
-	Junqu&eacute; de Fortuny E.,
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	Martens D., 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2014). 
-	<cite>Evaluating and understanding text-based stock price prediction models.</cite> 
-	Information Processing &amp; Management.
-	<code>IF 0.817</code>
-</div>
-
-<div class="publication box">
-	<a href="http://www.clips.ua.ac.be/people/ben-verhoeven" class="author">Verhoeven B.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a>, 
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
-	(2013). 
-	<cite>Ensemble Methods for Personality Recognition.</cite> 
-	Proceedings of the Workshop on Computational Personality Recognition (Shared Task).
-	<a href="http://www.clips.ua.ac.be/sites/default/files/verhoevenetal2013.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -85,7 +52,6 @@ title: Publications
 	(2013). 
 	<cite>Modeling Creativity: Case Studies in Python.</cite> 
 	University Press Antwerp. ISBN 978-90-5718-260-0.
-	<a href="http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -108,33 +74,11 @@ title: Publications
 
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2012). 
-	<cite>"Vreselijk mooi!" (terribly beautiful): A Subjectivity Lexicon for Dutch Adjectives.</cite> 
-	Proceedings of the 8th Language Resources and Evaluation Conference (LREC'12), 3568–3572.
-	<a href="http://www.clips.ua.ac.be/sites/default/files/desmedt-subjectivity.pdf" class="attachment">PDF</a>
-</div>
-
-<div class="publication box">
-	Junqu&eacute; de Fortuny E.,
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	Martens D., 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2012). 
-	<cite>Media coverage in times of political crisis: a text mining approach.</cite> 
-	Expert Systems with Applications, 39(14): 11616–11622. 
-	<code>IF 1.926</code>
-	<a href="http://www.clips.ua.ac.be/sites/default/files/coverage.pdf" class="attachment">PDF</a>
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="http://ludivinelechat.be" class="author">Lechat L.</a>, 
 	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
 	(2011). 
 	<cite>Generative art inspired by nature, in NodeBox.</cite> 
 	Applications of Evolutionary Computation, Part II, LNCS 6625: 264–272, Springer. 
-	<a href="http://www.clips.ua.ac.be/sites/default/files/desmedt-generative-art.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -144,15 +88,6 @@ title: Publications
 	(2010). 
 	<cite>NodeBox 2.</cite> 
 	Proceedings of the 16th International Symposium on Electronic Art (ISEA 2010), 350–352.
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/vincent-van-asch" class="author">Van Asch V.,</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2010). 
-	<cite>Memory-based shallow parser for Python.</cite> CLiPS Technical Report Series, CTRS-002, ISSN 2033-3544. 
-	<a href="http://www.clips.ua.ac.be/sites/default/files/ctrs-002.pdf" class="attachment">PDF</a>
 </div>
 
 <br>
