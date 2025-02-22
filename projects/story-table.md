@@ -37,12 +37,6 @@ In Story Table, we want to develop games that offer distraction and make (prolon
 
 We focus on three research approaches: 1) using an interactive wall projection, 2) using an interactive table, and 3) using AI story generation techniques.
 
-<h3>Media</h3>
-
-<iframe src="https://player.vimeo.com/video/211770406" width="600" height="385" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-
-<iframe src="https://player.vimeo.com/video/171401594" width="600" height="335" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-
 <h3>Press</h3>
 
 - _'Interactive games put young patients at ease'_, <a href="http://www.flanderstoday.eu/innovation/interactive-games-put-young-patients-ease">Flanders Today</a>, 2016
