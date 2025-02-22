@@ -124,8 +124,7 @@ title: Publications
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
 	(2011). 
 	<cite>Valence: affective visualization using EEG.</cite> 
-	Presented at Interieur 2012. 20–28 October 2012, Buda, Kortrijk, Belgium. 
-	<a href="http://organisms.be/index.php/valence" class="attachment">IMG</a>
+	Presented at Interieur 2012. 20–28 October 2012, Buda, Kortrijk, Belgium.
 </div>
 
 <div class="publication exhibition box">
@@ -134,8 +133,7 @@ title: Publications
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
 	(2011). 
 	<cite>Valence: affective visualization using EEG.</cite> 
-	Presented at Creativity World Forum 2011, Hasselt, Belgium. 
-	<a href="http://organisms.be/index.php/valence" class="attachment">IMG</a>
+	Presented at Creativity World Forum 2011, Hasselt, Belgium.
 </div>
 
 <div class="publication exhibition box">
@@ -152,8 +150,7 @@ title: Publications
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
 	(2010). 
 	<cite>Wallflower: generative wallpaper.</cite> 
-	Presented at Design Nature, international design biennale, Liege, Belgium. 
-	<a href="http://organisms.be/index.php/wallflower" class="attachment">IMG</a>
+	Presented at Design Nature, international design biennale, Liege, Belgium.
 </div>
 
 <div class="publication exhibition box">
@@ -185,7 +182,6 @@ title: Publications
 	(2010). 
 	<cite>Nanophysical: an artistic visualization of a biochip.</cite> 
 	Permanent exhibition at IMEC, Leuven, Belgium 
-	<a href="http://organisms.be/index.php/nanophysical" class="attachment">IMG</a>
 </div>
 
 <div class="publication exhibition box">
