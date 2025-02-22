@@ -12,10 +12,6 @@ keywords:
   - creativity
   - natural language processing
   - machine learning
-period:
-  - 2008-2012
-images:
-  - [modeling-creativity/modeling-creativity.jpg, "<a href='http://bit.ly/modeling-creativity'>Download the PDF</a>"]
 
 ---
 
