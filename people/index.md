@@ -20,12 +20,6 @@ title: People
 </div>
 
 <div class="box">
-	<img src="/media/people/blank-s.jpg" />
-	<a href="tom-de-smedt.html">Tom De Smedt</a><br>Postdoctoral researcher, worked on
-	<a href="../software/nodebox-opengl.html" class="tag-software">NOGL</a>.
-</div>
-
-<div class="box">
 	<img src="/media/people/stefan-s.jpg" />
 	<a href="stefan-gabriels.html">Stefan Gabriëls</a><br>Researcher, worked on
 	<a href="../software/nodebox-3.html" class="tag-software">NodeBox 3</a>.
@@ -68,12 +62,6 @@ title: People
 	<img src="/media/img/avatar.png" />
 	Thomas Crombez
 	<br>Postdoctoral researcher.
-</div>
-
-<div class="box">
-	<img src="/media/img/avatar.png" />
-	Tom Van Iersel
-	<br>Designer, psychologist.
 </div>
 
 <br>
