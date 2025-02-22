@@ -28,48 +28,10 @@ title: Publications
 
 <div class="publication box">
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2014). 
-	<cite>Creative Web Services with Pattern.</cite> 
-	Proceedings of the 5th International Conference on Computational Creativity (ICCC 2014).
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/vincent-van-asch" class="author">Van Asch V.</a>, 
-	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2013). 
-	<cite>Gravital: natural language processing for computer graphics.</cite> 
-	Veale T., Feyaerts K. &amp; Forceville C. (eds.) Creativity and the Agile Mind: A Multi-Disciplinary Study of a Multi-Faceted Phenomenon, 81–97. 
-	Berlin: Mouton.
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	(2013). 
-	<cite>Modeling Creativity: Case Studies in Python.</cite> 
-	University Press Antwerp. ISBN 978-90-5718-260-0.
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="../people/lieven-menschaert.html" class="author">Menschaert L.</a> 
 	(2012). 
 	<cite>VALENCE: Affective visualisation using EEG.</cite> 
 	Digital Creativity, 23(3-4): 272-277.
-</div>
-
-<div class="publication box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2012). 
-	<cite>Pattern for Python.</cite> 
-	Journal of Machine Learning Research, 13: 2063–2067.
-	<code>IF 2.974</code>
-	<a href="http://jmlr.csail.mit.edu/papers/volume13/desmedt12a/desmedt12a.pdf" class="attachment">PDF</a>
 </div>
 
 <div class="publication box">
@@ -250,13 +212,6 @@ title: Publications
 <!-- Conference lectures and invited symposia talks. -->
 <!-- =================================================================================================== -->
 
-<div class="publication exhibition box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
-	(2016). 
-	<cite>Automatic Timeline Visualization of Paintings.</cite> 
-	Presented at DHBenelux 2016, Luxembourg, LU.
-</div>
-
 <div class="publication talk box">
 	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
@@ -324,14 +279,6 @@ title: Publications
 </div>
 
 <div class="publication talk box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2010). 
-	<cite>Computational approaches to creativity</cite>. 
-	Presented at the Computational Linguistics in Flanders symposium (CLIF), Antwerpen, Belgium.
-</div>
-
-<div class="publication talk box">
 	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
 	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
 	<a href="../people/lucas-nijs.html" class="author">Nijs L.</a> 
@@ -347,40 +294,6 @@ title: Publications
 	(2010). 
 	<cite>NodeBox 2</cite>. 
 	Presented at Libre Graphics Meeting (LGM 2010), Pianofabriek, Brussels, Belgium.
-</div>
-
-<div class="publication talk box">
-	Marinus, M., 
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="http://ludivinelechat.be" class="author">Lechat L.</a> 
-	(2010). 
-	<cite>NodeBox for OpenGL</cite>. 
-	Presented at Gamezone 2010, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
-</div>
-
-<div class="publication talk box">
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
-	(2009). 
-	<cite>Gravital: natural language processing for computer graphics</cite>. 
-	Presented at the Integrated 2009 conference, Internationale Kunstcampus deSingel, Antwerpen, Belgium.
-</div>
-
-<div class="publication talk box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a> 
-	(2008). 
-	<cite>Computational creativity and generative art</cite>. 
-	Presented at the AI &amp; Creativity symposium, Radboud Universiteit, Nijmegen, The Netherlands.
-</div>
-
-<div class="publication talk box">
-	<a href="../people/tom-de-smedt.html" class="author">De Smedt T.</a>, 
-	<a href="../people/frederik-de-bleser.html" class="author">De Bleser F.</a>, 
-	<a href="http://www.clips.ua.ac.be/people/walter-daelemans" class="author">Daelemans W.</a> 
-	(2008). 
-	<cite>Gravital: natural language processing for computer graphics</cite>. 
-	Presented at The Agile Mind symposium, Flemish Academic Centre for Science and the Arts, Brussels, Belgium.
 </div>
 
 <div class="publication talk box">
